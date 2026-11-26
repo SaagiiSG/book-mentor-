@@ -2,6 +2,17 @@
   "name": "book-board",
   "version": "1.0.0",
   "description": "A business advisory board built from 100 books: Productivity, Sales, Business Growth and Marketing brains, with a router that sends each question to the right department or runs several as parallel subagents and synthesizes one answer.",
-  "keywords": ["business", "sales", "marketing", "productivity", "strategy", "books", "advisor"],
-  "license": "MIT"
+  "keywords": [
+    "business",
+    "sales",
+    "marketing",
+    "productivity",
+    "strategy",
+    "books",
+    "advisor"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Book Board"
+  }
 }

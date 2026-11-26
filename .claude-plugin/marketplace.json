@@ -1,11 +1,14 @@
 {
   "name": "book-board",
-  "owner": { "name": "Book Board" },
+  "owner": {
+    "name": "Book Board"
+  },
   "plugins": [
     {
       "name": "book-board",
       "source": "./",
       "description": "Business advisory board from 100 books with a department router and parallel subagent council."
     }
-  ]
+  ],
+  "description": "Book Board: a 100-book business advisory skill for Claude Code."
 }
