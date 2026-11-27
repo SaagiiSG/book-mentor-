@@ -1,6 +1,6 @@
 # Books: Productivity department
 
-Built from the 25 Productivity books in BOOKS.md (ids P01 to P30, with gaps). One entry per book, in id order, written in our own words.
+Built from the 20 Productivity books in BOOKS.md (P01 to P20). One entry per book, in id order, in our own words. Five former Productivity books (M01 to M05) now sit in the Mindset department.
 
 Quote policy: verbatim quotes appear only from the author talks and public-domain texts listed in talks.md, always followed by a T id. Copyrighted book text is never quoted. Everything else is paraphrase cited by book id.
 
@@ -119,7 +119,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Use it when:** the owner procrastinates on the hard call or proposal.
 
-**Watch out:** motivational and simple. It does not address why a task is avoided (ambiguity, fear, discomfort) as well as P10 does.
+**Watch out:** motivational and simple. It does not address why a task is avoided (ambiguity, fear, discomfort) as well as P09 does.
 
 ## [P08] The 4-Hour Workweek, Tim Ferriss (2007)
 
@@ -140,7 +140,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** some early-internet outsourcing tactics are dated or overpromise. Ferriss warns that cutting work leaves a void, so plan what the freed time is for.
 
-## [P10] Indistractable, Nir Eyal (2019)
+## [P09] Indistractable, Nir Eyal (2019)
 
 **Core idea.** Distraction starts inside: it is usually an escape from discomfort. Become indistractable by handling internal triggers, scheduling time for what you value, removing external triggers, and using pacts, in that order.
 
@@ -155,9 +155,9 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Use it when:** the owner plans well but gets pulled into phone, email, Slack or busywork, or avoids an uncomfortable task.
 
-**Watch out:** Eyal earlier wrote Hooked (M09) on building habit-forming products; some critics see tension. Places a lot of responsibility on the individual rather than the work culture. He says willpower is not a depleting tank and that ego depletion did not replicate.
+**Watch out:** Eyal earlier wrote a book on building habit-forming products, and some critics see tension. Places a lot of responsibility on the individual rather than the work culture. He says willpower is not a depleting tank and that ego depletion did not replicate.
 
-## [P11] The Power of Habit, Charles Duhigg (2012)
+## [P10] The Power of Habit, Charles Duhigg (2012)
 
 **Core idea.** Habits run on a loop of cue, routine and reward, driven by craving. You change a habit by keeping the cue and reward and swapping the routine. Organizations have habits too, and keystone habits can trigger wider change.
 
@@ -173,7 +173,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** journalism built on stories; some anecdotes are simplified and the science has moved on. Use the loop as a lens, not a law.
 
-## [P12] Four Thousand Weeks, Oliver Burkeman (2021)
+## [P11] Four Thousand Weeks, Oliver Burkeman (2021)
 
 **Core idea.** A human life is about four thousand weeks (a rounded figure for about 80 years), so you will never get everything done. Productivity techniques often make it worse by inviting more work. Accept finitude, choose what to neglect, and commit to a few things. Burkeman says the point is relief, not squeezing every day.
 
@@ -186,11 +186,11 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **In the author's words:** "if you try to optimize yourself with respect to some effectively infinite stream of inputs, you're just going to get busier." (T058); "you're gonna have to not do lots of things that do matter" (T059)
 
-**Use it when:** the owner is burning out chasing an endless list or feels guilty about everything undone.
+**Use it when:** the owner is overloaded, chasing an endless list, or feels guilty about everything undone.
 
-**Watch out:** a philosophy, not a system. Pair it with an operating method like P18 or P01.
+**Watch out:** a philosophy, not a system. Pair it with an operating method like P16 or P01.
 
-## [P13] The Effective Executive, Peter F. Drucker (1967)
+## [P12] The Effective Executive, Peter F. Drucker (1967)
 
 **Core idea.** Effectiveness, doing the right things, can be learned. Knowledge workers must manage their time, focus on contribution, build on strengths, concentrate on first things, and make few but sound decisions.
 
@@ -205,7 +205,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** written for 1960s large-company executives; the core ideas still hold for small teams.
 
-## [P14] Buy Back Your Time, Dan Martell (2023)
+## [P13] Buy Back Your Time, Dan Martell (2023)
 
 **Core idea.** Founders get stuck doing low-value work themselves. Martell's premise: you do not hire to grow the business, you hire to buy back your time, starting from your calendar. Then reinvest that time into the high-value, energizing work only you can do.
 
@@ -223,7 +223,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** assumes cash to hire. Pre-revenue or thin-margin owners must adapt (cheaper help, automation, elimination first). Martell says the hard part is letting go, not the money.
 
-## [P15] Slow Productivity, Cal Newport (2024)
+## [P14] Slow Productivity, Cal Newport (2024)
 
 **Core idea.** Knowledge work has confused visible busyness with productivity. A sustainable alternative: do fewer things at once, work at a natural pace, and obsess over quality.
 
@@ -240,7 +240,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** examples are mostly writers and academics; owners with payroll must adapt the pace advice.
 
-## [P17] Building a Second Brain, Tiago Forte (2022)
+## [P15] Building a Second Brain, Tiago Forte (2022)
 
 **Core idea.** Use a digital system to capture and organize information so your ideas can be found and reused to create output. The goal is expression, not hoarding.
 
@@ -255,7 +255,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** easy to over-engineer note systems and confuse collecting with doing. Forte himself prefers messy, quick notes.
 
-## [P18] The 12 Week Year, Brian P. Moran and Michael Lennington (2013)
+## [P16] The 12 Week Year, Brian P. Moran and Michael Lennington (2013)
 
 **Core idea.** Annual goals create false comfort because deadlines feel far away. Treat each 12 weeks as a full year (not a quarter of one), with a tight plan, weekly scoring, and accountability, so urgency becomes constant. It is an execution system: consistency, not perfection.
 
@@ -272,9 +272,9 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Use it when:** the owner sets goals every January and drifts by March, or a team needs execution rhythm.
 
-**Watch out:** can become a points game if tactics are wrong. Overloaded plans tend to collapse around weeks four to six. Pair with good strategy from the Growth department.
+**Watch out:** can become a points game if tactics are wrong. Overloaded plans tend to collapse around weeks four to six. Pair with good strategy from the Business department.
 
-## [P21] Flow, Mihaly Csikszentmihalyi (1990)
+## [P17] Flow, Mihaly Csikszentmihalyi (1990)
 
 **Core idea.** People are happiest and perform best in flow: deep absorption in an activity with clear goals, immediate feedback, and a challenge matched to skill. You can shape work so flow happens more often, in ordinary work and home life, not only in art or sport.
 
@@ -289,7 +289,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** academic, not a how-to; flow does not mean you are on the right work.
 
-## [P22] The Compound Effect, Darren Hardy (2010)
+## [P18] The Compound Effect, Darren Hardy (2010)
 
 **Core idea.** Small, smart choices repeated consistently over time produce large results. Most people quit because early results are invisible.
 
@@ -302,7 +302,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** motivational and anecdotal; compounding only helps if the activity is right.
 
-## [P23] Peak, Anders Ericsson and Robert Pool (2016)
+## [P19] Peak, Anders Ericsson and Robert Pool (2016)
 
 **Core idea.** Expert performance comes from deliberate practice, not innate talent or hours alone. Practice must target specific weaknesses, push beyond comfort, use feedback, and build mental representations.
 
@@ -318,7 +318,7 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 
 **Watch out:** cleanest in fields with established training; business skills need home-made feedback loops.
 
-## [P24] Who Not How, Dan Sullivan and Benjamin Hardy (2020)
+## [P20] Who Not How, Dan Sullivan and Benjamin Hardy (2020)
 
 **Core idea.** When you want a result, ask "who can do this?" instead of "how do I do this?". Finding the right people expands what you can achieve and frees your time for your unique ability.
 
@@ -333,86 +333,3 @@ Quote policy: verbatim quotes appear only from the author talks and public-domai
 **Use it when:** the owner keeps learning skills themselves or delegates without a brief.
 
 **Watch out:** assumes money and capable people, and comes from a coaching program. Can excuse avoiding skills the owner should learn.
-
-## [P26] Can't Hurt Me, David Goggins (2018)
-
-**Core idea.** Most people stop at a fraction of what they can do. Goggins, who went from an abusive childhood and over 300 pounds to Navy SEAL and ultra runner, argues you build mental toughness by choosing hard things on purpose, owning the truth about yourself, and refusing to let comfort decide.
-
-**Key frameworks and ideas**
-- **The Accountability Mirror:** write your honest shortcomings and goals on notes on the mirror, and face them daily.
-- **The Cookie Jar:** keep a written list of past wins and hardships overcome, and draw on it when you want to quit.
-- **Callous your mind:** repeated, chosen discomfort hardens you for the discomfort you cannot choose.
-- **The 40 percent rule:** when you feel done, you are far from your real limit.
-
-**In the author's words:** "it's all stick all stick no carrot" (T070); "even me in my state of I can't read and write I knew exactly what to do it just sucks doing it" (T070)
-
-**Use it when:** the owner knows exactly what to do, has the system, and quits when it gets uncomfortable; or needs a hard push to restart after a setback.
-
-**Watch out:** Goggins says the book is a toned-down version of an extreme life. Self-punishing intensity can feed burnout and injury (the opposite of P15 and P12). Use it for a defined push, not as a permanent operating mode, and never as a substitute for rest or professional help.
-
-## [P27] The Let Them Theory, Mel Robbins (2024)
-
-**Core idea.** Much wasted energy goes into trying to control what other people think, do and feel. Let them be who they are, then put your energy into what you control: your own response and next move (the book pairs "Let Them" with "Let Me").
-
-**Key frameworks and ideas**
-- **Let Them:** when someone is not showing up as you want, stop forcing it; they are showing you who they are.
-- **Let Me:** turn back to your own choices: what you will do, say or change next.
-- **Stop rescuing:** let people own their work and their failures so they grow.
-- **When not to say let them:** danger or discrimination, when you need to ask or advocate for yourself (pay, terms), and when someone keeps crossing your boundaries.
-
-**In the author's words:** "every time you rescue somebody you rob them of the opportunity to grow" (T071); "stop trying to force other people to do what you want them to do and so much more peace will come into your life" (T071)
-
-**Use it when:** the owner burns hours redoing staff work, chasing others' approval, or stewing over what clients, competitors or family do.
-
-**Watch out:** not passivity. A manager still sets standards, gives feedback and makes consequences clear (P04).
-
-## [P28] Meditations, Marcus Aurelius (c. 170 to 180 AD)
-
-**Core idea.** A Roman emperor's private Stoic notes to himself. Events do not harm you; your judgments do. Care for what is in your power, do only the necessary, and treat obstacles as material for the work.
-
-**Key frameworks and ideas**
-- **Judgments, not events:** remove the opinion of harm and the harm goes with it.
-- **What is in your power:** do not spend days on what others say or do unless it serves a common good.
-- **Necessary actions only:** before each act, ask whether it is necessary; fewer actions bring calm and leisure.
-- **The obstacle becomes the way:** the mind turns what blocks an action into the object of its work; hold plans with reservation.
-- **Morning premeditation:** expect difficult people today, and remember you were born to do your work, not to stay in a warm bed.
-
-**In the author's words (public domain, T102 text):** "Certainly there is nothing better, than for a man to confine himself to necessary actions" (T102); "that which before was in her way, is now her readiest way." (T102)
-
-**Use it when:** the owner is rattled by setbacks, other people or news, or is doing too much that is not necessary.
-
-**Watch out:** a philosophy journal, not a method; pair it with a weekly system. T102 is an older, archaic English rendering.
-
-## [P29] Man's Search for Meaning, Viktor E. Frankl (1946)
-
-**Core idea.** From his years in Nazi camps and his work as a psychiatrist, Frankl argues that the main human drive is meaning, not pleasure or power. People endure almost anything when they have a why: a task to finish or a person waiting.
-
-**Key frameworks and ideas**
-- **The last freedom:** when you cannot change a situation, you can still choose your attitude toward it.
-- **Three avenues to meaning:** a work or deed, love of a person, and the stance you take toward unavoidable suffering.
-- **Despair equals suffering minus meaning:** suffering with no meaning breeds despair. Frankl insists suffering is not required: if the cause can be removed, remove it.
-- **Life asks something of you:** stop asking what you expect from life and ask what it expects of you.
-- **Under-demanded:** too little demand is more dangerous than too much.
-- **Happiness cannot be aimed at:** it follows from giving yourself to a cause or a person.
-
-**In the author's words:** "if we cannot change a situation we have always the last freedom to change our attitude to that situation" (T072); "there had to be a why of survival the question was survival for what" (T073)
-
-**Use it when:** the owner is efficient but empty, has lost the reason for the work, or faces a loss or setback they cannot change.
-
-**Watch out:** not a productivity book and not therapy. Do not use camp suffering to minimize an owner's burnout; when signs of depression show, recommend professional help.
-
-## [P30] Think and Grow Rich, Napoleon Hill (1937)
-
-**Core idea.** Achievement starts with a definite purpose held with burning desire, backed by a plan, persistence and the help of others.
-
-**Key frameworks and ideas**
-- **Definite major purpose:** write exactly what you want, by when, and what you will give in return, and review it daily.
-- **The Mastermind:** two or more people working in harmony toward a definite purpose, lending each other experience and contacts.
-- **Persistence and organized planning:** treat defeat as temporary and adjust the plan, not the purpose.
-- **Applied faith and autosuggestion:** repeat your purpose until it shapes belief. Hill says faith guides but nothing happens without action.
-
-**In the author's words:** "it consists of two or more people who work in perfect harmony for the attainment of a definite purpose" (T074); "on page two of your notebook write down a clear statement of precisely what you intend to give in return for that which you desire from life" (T074) (from Hill's 1954 lecture series on the same philosophy)
-
-**Use it when:** the owner has no clear target, drifts between ideas, or works alone with no peer group.
-
-**Watch out:** no research behind it; claims that belief alone attracts riches are unsupported, and parts of Hill's account of his sources are disputed. Use the written purpose, the plan and the mastermind; drop the mysticism.
