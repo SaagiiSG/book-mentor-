@@ -4,19 +4,21 @@ The operating map for every Business answer, built on Hormozi's $100M series (B0
 
 ## How to use it
 
-Every business that makes money runs five stages in order: OFFER, LEADS, CLOSE, MONEY MODEL, SCALE. Hormozi's own sequence is the offer first, then people to sell to, then sales, and only then money (T025). Walk them in order and stop at the first that fails its test: that is the constraint. Fixing a later stage while an earlier one is broken multiplies the break; more leads into a weak offer burns more leads. Use Hormozi's frame for that stage, then the supporting books. Numbers are Hormozi's where marked.
+Every business that makes money runs five stages in order: OFFER, LEADS, CLOSE, MONEY MODEL, SCALE. Hormozi's own sequence is the offer first, then people to sell to, then sales, and only then money (T025, paraphrased); his three books map to it as what to sell, who to sell to, and how to get paid more, faster, again and again (T137). Walk them in order and stop at the first that fails its test: that is the constraint. Fixing a later stage while an earlier one is broken multiplies the break; more leads into a weak offer burns more leads. Use Hormozi's frame for that stage, then the supporting books. Numbers are Hormozi's where marked.
 
 ## Stage 1: OFFER
 
-**What it means.** Something a specific, starving market wants, built so well that saying no feels stupid, at a price that funds great delivery.
+**What it means.** Something a specific, starving market wants, built so well that saying no feels stupid, at a price that funds great delivery. Hormozi treats a low price as the symptom and too little value as the cause (T136).
 
-**Signs this is the constraint.** Qualified people talk to you but few buy, and it is true for every seller, not just one. Buyers compare you line by line with rivals. You discount to close. The market fails one of Hormozi's four tests: massive pain, purchasing power, easy to target, growing.
+**Signs this is the constraint.** Qualified people talk to you but few buy, and it is true for every seller, not just one. Buyers compare you line by line with rivals. You discount to close. Customers get the result but tell no one, because you charge about what you deliver. Under $1M, you run several products, avatars or channels at once. The market fails one of Hormozi's four tests: massive pain, purchasing power, easy to target, growing.
 
-**Hormozi's frame.** Starving Crowd, then the Value Equation (dream outcome and likelihood up, time delay and effort down), then the Grand Slam Offer with enhancers and a guarantee you can afford [B01].
+**Hormozi's frame.** Starving Crowd, narrowed to one product, one avatar and one channel until about $1M (T136), then the Value Equation: dream outcome and likelihood up, time delay and effort or sacrifice down, with speed the lever he pushes hardest and a quick win in the first 7 to 14 days (T136). Then the Grand Slam Offer: solve every problem the buyer faces, deliver far more value than the price so customers talk, and add enhancers and a guarantee you can afford [B01].
 
-**Supporting frameworks.** Positioning Components [B17]; Positioning in the Mind [B16]; Smallest Viable Market [B22]; SB7 and One-Liner [B15]; Strategy Canvas and ERRC Grid [B36] when the whole category is commoditized.
+**Supporting frameworks.** Positioning Components [B17]; Positioning in the Mind [B16]; Smallest Viable Market and Two-Axis Positioning Map [B22]; SB7 Framework and One-Liner [B15]; Strategy Canvas and ERRC Grid [B36] when the whole category is commoditized.
 
-**Metric to watch.** Close rate on qualified conversations at full price, and the share of customers who get the promised result.
+**Metric to watch.** Close rate on qualified conversations at full price, the share of customers who get the promised result, and the share who get a first win within 14 days.
+
+> "the price is the is this is the symptom not the cause right so the cause is that people are not providing sufficient value" (T136)
 
 **Hand-off.** When qualified buyers say yes at full price at a steady rate, the next limit is how many of them you meet: go to LEADS.
 
@@ -28,11 +30,11 @@ Every business that makes money runs five stages in order: OFFER, LEADS, CLOSE, 
 
 **Hormozi's frame.** The Core Four (warm outreach, free content, cold outreach, paid ads), then Lead Getters (customers, employees, agencies, affiliates), run under the Rule of 100 and More, Better, New, with a Lead Magnet for cold audiences [B02]. His launch numbers: about $2 per lead and a 55 percent opt-in page (T025); treat these as his results, not your benchmark. Paid leads pay when lifetime gross profit is about three times acquisition cost or more (detail uncertain).
 
-**Supporting frameworks.** Five Levels of Awareness [B18]; Hook Point Method [B24]; Balanced Prospecting [B09]; Cold Calling 2.0 [B10]; Mental and Physical Availability [B27].
+**Supporting frameworks.** Five Levels of Awareness and Market Sophistication [B18]; Hook, Retain, Reward and the Hook Point Method [B24]; Balanced Prospecting and the Law of Replacement [B09]; Cold Calling 2.0 and the Ideal Customer Profile [B10]; Mental and Physical Availability [B27].
 
 **Metric to watch.** Engaged leads per week by source, and cost per engaged lead.
 
-> "All else being equal, when you double your leads, you double your business. Sometimes it really is that simple." (T025)
+His launch talk puts it simply: all else equal, double the leads and you double the business (T025, paraphrased).
 
 **Hand-off.** When the calendar is full and good leads go cold waiting or slip away after the call, go to CLOSE.
 
@@ -44,7 +46,7 @@ Every business that makes money runs five stages in order: OFFER, LEADS, CLOSE, 
 
 **Hormozi's frame.** Objections as Value Levers: each objection points to one lever of the Value Equation, so answer that lever, and fix the offer when the same objection repeats [B01, synthesis with B12]. When the no is about price, use a planned downsell, not a discount [B03].
 
-**Supporting frameworks.** Gap Analysis [B07]; SPIN Questioning [B04]; Three Tens and the Action Threshold [B12]; Tactical Empathy Toolkit [B06]; Advances and Micro-Commitments [B04].
+**Supporting frameworks.** Gap Analysis [B07]; SPIN Questioning [B04]; Three Tens and the Action Threshold [B12]; Tactical Empathy Toolkit and Calibrated Questions [B06]; Advances and Micro-Commitments [B04].
 
 **Metric to watch.** Conversion at each funnel step, per rep. Roberge's illustration for one mid-market rep: 100 leads, about half connected, 30 opportunities, 15 demos, 5 customers (T082). Coach the highest step that leaks.
 
@@ -52,15 +54,17 @@ Every business that makes money runs five stages in order: OFFER, LEADS, CLOSE, 
 
 ## Stage 4: MONEY MODEL
 
-**What it means.** A sequence of offers that makes each customer pay more, sooner, and stay, so customers fund the next customers.
+**What it means.** A sequence of offers that gets customers to spend more, faster, again and again, so customers fund the next customers. Hormozi's test: customers spend twice as much on you as you spend on them within 30 days (T137).
 
-**Signs this is the constraint.** You can win customers, but each one costs more to get than the first purchase earns. Growth drains cash. You sell one thing once. Buyers who say no to price leave with nothing. Nothing recurs. Sales come in but profit never stays.
+**Signs this is the constraint.** You can win customers, but 30-day gross profit is below twice the cost to get and serve them. Growth drains cash. You sell one thing once. Buyers who say no to price leave with nothing. Nothing recurs. Sales come in but profit never stays. A rival selling the same thing makes more cash per customer: the product may be fine and the model wrong (T137).
 
-**Hormozi's frame.** The Money Model: attraction, upsell, downsell and continuity offers, built one at a time, judged by 30-Day Cash: gross profit in a customer's first 30 days should cover the cost to acquire and serve them [B03].
+**Hormozi's frame.** The Money Model: four offer types holding 15 mechanisms. Attraction offers get people to buy, upsell offers get them to spend more, downsell offers get them to buy something after a no, and continuity offers get them to buy on repeat (T137). Build them one at a time, judged by 30-Day Cash and Client-Financed Acquisition: 30-day gross profit greater than twice CAC plus COGS (T137) [B03]. Doubling value, customers and speed together gives eight times the growth (T137).
 
-**Supporting frameworks.** Value Ladder [B25]; Downsell Instead of Discount [B03]; Price Anchoring and Option Framing [B01, B13]; Profit First Allocation [B33]; recurring revenue from Built to Sell [B34].
+**Supporting frameworks.** Value Ladder [B25]; Downsell Instead of Discount [B03]; Price Anchoring and Option Framing [B01, B13]; Profit First Allocation [B33]; Built to Sell Readiness [B34] for recurring revenue.
 
-**Metric to watch.** 30-day gross profit per customer against acquisition cost, then lifetime gross profit against acquisition cost.
+**Metric to watch.** 30-day gross profit per customer against twice CAC plus COGS, then lifetime gross profit against acquisition cost.
+
+> "So, there might not be anything wrong with your business. You might just have something wrong with your money model." (T137)
 
 **Hand-off.** When customers fund their own acquisition, demand and cash stop being the limit; the limit becomes the owner and delivery: go to SCALE.
 
@@ -85,7 +89,7 @@ Every business that makes money runs five stages in order: OFFER, LEADS, CLOSE, 
 1. **Great leads, weak offer.** Ads and outreach fill the calendar, every seller closes poorly, and the owner blames sales. Fix the Value Equation before any script or hire.
 2. **Great offer, no leads.** Happy referral customers, swinging revenue. Pick one Core Four method and run the Rule of 100 for 90 days.
 3. **Discounting to close.** A CLOSE fix hiding an OFFER problem, which then breaks the MONEY MODEL because margin per customer falls. Raise value, hold price, add a downsell.
-4. **Scaling leads before the money model.** Each customer costs more than first-month profit, so growth eats cash. Build the money model before raising spend.
+4. **Scaling leads before the money model.** First-month profit does not clear twice the cost to get and serve each customer, so growth eats cash. Build the money model before raising spend.
 5. **Founder-only close.** Leads and offer are fine, but only the founder can sell. Write the process down and build the Sales Team Engine; if hires still fail with good leads, recheck the offer.
 6. **Channel hopping.** A LEADS problem read as a channel problem, so the owner starts a new platform every month. Apply More, Better, New.
 7. **Systemizing a broken offer.** EOS, hires and dashboards built on an offer that does not sell at full price. Go back to Stage 1 first.

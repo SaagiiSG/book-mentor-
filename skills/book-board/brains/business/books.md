@@ -6,22 +6,24 @@ Built from the 36 Business books in BOOKS.md (B01 to B36), one entry each in id 
 
 **Stage:** Offer (the spine's first stage).
 
-**Core idea.** Most sales and marketing problems are offer problems. Pick a market that is starving for a result, build an offer so good that people feel stupid saying no, and charge more, not less. His order of power is market first, then offer, then persuasion: a great pitch cannot save a weak offer to a market that does not want it.
+**Core idea.** Most sales and marketing problems are offer problems. In his words, a low price is the symptom and too little value is the cause (T136). Pick a market that is starving for a result, build an offer so good that people feel stupid saying no, and charge more, not less. His order of power is market first, then offer, then persuasion: a great pitch cannot save a weak offer to a market that does not want it.
 
 **Key frameworks and ideas**
 - **Starving crowd:** choose a market with massive pain, purchasing power, that is easy to target, and that is growing. A narrow, named group gets a more valuable offer than "everyone."
-- **Value Equation:** perceived value rises with the dream outcome and the perceived likelihood of getting it, and falls with time delay and effort or sacrifice. The two bottom levers are often the cheapest to move.
+- **Value Equation:** perceived value rises with the dream outcome and the perceived likelihood of getting it, and falls with time delay and effort or sacrifice. The two bottom levers are often the cheapest to move. In his talk he pushes time hardest, since speed is what buyers value most, and splits the last lever in two: effort is what the buyer must start doing, sacrifice is what they must give up (T136).
+- **Customer surplus and the quick win (talk):** charge far less than the value you deliver and buyers tell everyone; charge exactly the value and they stay quiet. Engineer a quick win in a new client's first 7 to 14 days, found by comparing what your top customers did early with the rest (T136).
+- **Niche and productize (talk):** under $1M in revenue, run one product, one avatar and one channel. A narrow avatar lets you standardize the offer, price differently and make loyalty attach to the product, not one provider (T136).
 - **Grand Slam Offer:** name the dream outcome; list every problem the buyer will face before, during and after; turn each into a solution; choose delivery vehicles (one to one, group, done for you, tools); then trim the costly, low-value items and stack the rest. The result is hard to compare on price, so it escapes commodity pricing.
 - **Charge what it is worth:** a higher price funds better delivery and draws more committed buyers, who get better results, which supports the price.
 - **Enhancers:** scarcity (limited supply), urgency (limited time), bonuses (each one solving a next problem, with its own stated value), guarantees, and naming. Guarantee types include unconditional, conditional, anti-guarantees and implied or performance guarantees (detail uncertain). His naming formula is MAGIC: a magnetic reason why, the avatar, the goal, the interval, and a container word (detail uncertain).
 - **Leverage and the three levels (from his talk):** a business attracts attention, converts it, and delivers; at each level you want the most output for the least time, and the offer itself should carry leverage, like software or media sold many times (T081).
 - **Where ideas come from (talk):** pain, past profession, or passion. Past profession is the proven money maker; the other two are less proven with more upside (T081).
 
-**In the author's words:** "ideally you want the offer to have as much leverage as possible" (T081). "you need supply and demand to have a business and then leverage to get as much out of it as you possibly can" (T081).
+**In the author's words:** "the price is the is this is the symptom not the cause right so the cause is that people are not providing sufficient value" (T136). "the fastest way that you can provide value is look what everyone else in the market is doing and do it in half the time" (T136). "if i charge uh ten thousand dollars for a hundred thousand value they'll tell everybody" (T136). "ideally you want the offer to have as much leverage as possible" (T081).
 
 **Use it when.** Close rate is low across all reps, buyers compare you on price, leads arrive but do not buy, or you sell services, coaching or local offers.
 
-**Watch out.** Tilted to services and info products, and the claims rest on his own companies. Strong guarantees can sink a small firm if delivery is not reliable, so price the guarantee into your margin. T081 is a general interview and does not cover the Value Equation or Grand Slam Offer; those come from the book.
+**Watch out.** Tilted to services and info products, and the claims rest on his own companies. Strong guarantees can sink a small firm if delivery is not reliable, so price the guarantee into your margin. The Grand Slam Offer talk (T136) covers value, price, the time and effort levers, niche and productizing, but its transcript is cut before scarcity, urgency, bonuses, guarantees and naming, so those details rest on the book alone. T081 is a general interview.
 
 ## [B02] $100M Leads, Alex Hormozi (2023)
 
@@ -37,10 +39,10 @@ Built from the 36 Business books in BOOKS.md (B01 to B36), one entry each in id 
 - **Rule of 100:** a fixed daily volume of lead actions (for example 100 outreach touches, 100 minutes of content, or a set daily ad spend) kept up long enough to work.
 - **More, Better, New:** do more of the current activity, then do it better, and only then add a new channel.
 - **Content:** hook, retain, reward in every post. When promoting, keep the regular content your audience came for and add the promotion on top (T025).
-- **Paid ads and outreach results from the launch talk:** a three-step "what, who, when" ad script; a landing page he says reached a 55 percent opt-in rate; about $275,000 spent for 137,000 leads, roughly $2 per lead. Cold outreach saved Gym Launch during COVID, from zero sales in month one to 30 in month nine and $480,000 monthly revenue; outbound is now over half of that company's sales (T025).
+- **Paid ads and outreach results from the launch talk:** a three-step ad script of what, who and when; a landing page he says reached a 55 percent opt-in rate; about $275,000 spent for 137,000 leads, roughly $2 per lead. Cold outreach saved Gym Launch during COVID, from zero sales in month one to 30 in month nine and $480,000 monthly revenue; outbound is now over half of that company's sales (T025).
 - **Unit economics:** ads pay when lifetime gross profit per customer is well above the cost to acquire one; he treats about 3 to 1 as a healthy floor (detail uncertain).
 
-**In the author's words:** "All else being equal, when you double your leads, you double your business. Sometimes it really is that simple." (T025) "Having lots of leads makes it hard to be poor. Advertising lets you have a terrible product and still make money. It lets you be terrible at sales and still make money." (T025) "because only two people can let strangers know about the stuff you sell. You and other people." (T025)
+**From the launch talk (paraphrased, T025):** in this talk he reads from the book and delivers a scripted version of it, so no lines are quoted here. He says that, all else equal, doubling your leads doubles your business; that plenty of leads make it hard to stay poor, because advertising can make up for a weak product or weak selling; and that only two kinds of people can tell strangers about what you sell, you and other people, which is why lead getters matter (T025).
 
 **Use it when.** The offer converts but too few people hear it, lead flow swings with the owner's mood, or the owner keeps jumping between tactics.
 
@@ -50,17 +52,20 @@ Built from the 36 Business books in BOOKS.md (B01 to B36), one entry each in id 
 
 **Stage:** Money Model.
 
-**Core idea.** A business should not rely on one offer sold once. A money model is a planned sequence of offers built so a new customer pays back the cost to acquire and serve them quickly, ideally within the first 30 days. Then the customer funds the next customer, and growth stops depending on outside cash.
+**Core idea.** A business should not rely on one offer sold once. A money model is a planned sequence of offers. His target: in the first 30 days, a customer's gross profit should be more than twice the cost to acquire them plus the cost to serve them (CAC plus COGS); in plain terms, customers spend twice as much on you as you spend on them, within 30 days (T137). Then each customer funds the next, and cash stops limiting growth. Offers answers what to sell, Leads answers who to sell to, and Money Models answers how to get paid as much as possible, as fast as possible, again and again (T137).
 
 **Key frameworks and ideas**
-- **Four offer types:** attraction offers that bring customers in, upsell offers that add value right after a yes, downsell offers that save the sale when the buyer says no, and continuity offers that create recurring revenue.
-- **Attraction offers:** examples he names include win your money back, giveaways, decoy offers, buy one get one, and pay less now or pay more later (names as recalled, detail uncertain).
-- **Upsells:** offer the next thing the buyer needs right after the yes, because the purchase creates the next problem. Variants include the classic upsell, a menu, an anchor (show the premium option first) and a rollover of what they already paid (detail uncertain).
-- **Downsells:** payment plans, trials with conditions or a penalty, or a lighter version with fewer features, used instead of cutting the main price.
-- **Continuity:** recurring offers, made easier to start with a bonus, a discount for committing, or a waived setup fee (detail uncertain).
-- **Cash first, then scale:** grow ad spend and outreach only when 30-day gross profit per customer covers what it costs to get and serve them. Build the model one offer at a time rather than all at once.
+- **Four offer types, 15 mechanisms:** attraction offers get people to buy, upsell offers get them to spend more, downsell offers get them to buy something when they say no, and continuity offers get them to buy again and again. Every mechanism sits under one of the four (T137).
+- **Attraction offers (5):** something free or discounted that gets a customer in the door and makes money by leading them to buy something better at a higher price. The five: win your money back, giveaways, a decoy offer (the talk caption reads dummy offer), buy X get Y free, and pay less now or pay more later (T137).
+- **Upsells (4):** offer the next thing the buyer needs right after the yes, because the purchase creates the next problem. The four: classic (reveal the next problem), menu, anchor (show the premium option first) and rollover (credit what they already paid toward the bigger offer) (T137). His menu upsell runs in four moves: unsell what they do not need, prescribe what they do, ask whether they prefer A or B, and make paying easy (T137).
+- **Downsells (3):** payment plan, trial, and feature downsell (a lighter version), used instead of cutting the main price (T137).
+- **Continuity (3):** continuity bonus (a free bonus worth more than the first payment, for joining), continuity discount (aimed at getting a year up front), and waived fee, where committing long term avoids a big fee so flexibility costs more (T137).
+- **Compounding:** twice as valuable, twice as many customers and twice as fast gives eight times the growth (T137).
+- **Same product, different model:** two businesses can sell the identical service and earn very different cash because one has a better money model, so check the model before blaming the product (T137).
+- **Cash first, then scale:** grow ad spend and outreach only when 30-day gross profit per customer clears twice what it costs to get and serve them. Build the model one offer at a time rather than all at once.
+- **Case numbers from the launch talk:** a gym spending $100 per free trial, three trials per member, paid $300 to win a $100 a month member and needed three months to break even; his fix was a $500 up-front win-your-money-back offer paid back as store credit, then a continuity offer. Gym Launch added a continuity bonus to a $16,000 package; he gives the lift as $380,000 to $1.76M a month in six months in one place and to $2.2M in twelve months in another (T137). These are his results, not benchmarks.
 
-**In the author's words:** no verified quotes; the available talk (T081) contains no money-model content.
+**In the author's words:** "A money model is a sequence of offers. A $100 million money model is a sequence of offers that make customers spend twice as much on you as you do on them in 30 days or less." (T137) "An attraction offer is something free or discounted that gets a customer in the door but makes money by getting them to buy something better at a higher price." (T137) "So, there might not be anything wrong with your business. You might just have something wrong with your money model." (T137)
 
 **Use it when.** Getting customers costs too much, the business sells one product once, buyers who say no to price leave with nothing, or the team closes the first deal and stops.
 

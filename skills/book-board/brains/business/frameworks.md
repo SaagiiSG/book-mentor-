@@ -6,27 +6,30 @@ Built from the 36 Business books (B01 to B36) and the old Sales, Marketing and G
 
 ### Value Equation
 **Sources:** [B01].
-**What it is.** A way to raise perceived value without cutting price. Value goes up with the dream outcome and the buyer's perceived likelihood of getting it, and down with time delay and effort or sacrifice.
-**Steps.** 1) Write the dream outcome in the buyer's words. 2) Rate each of the four levers from the buyer's view. 3) Fix the weakest lever first; the bottom two (time, effort) are usually cheapest to move. 4) Add proof to lift likelihood.
+**What it is.** A way to raise perceived value without cutting price. Value goes up with the dream outcome and the buyer's perceived likelihood of getting it, and down with time delay and effort or sacrifice. Effort is what the buyer must start doing; sacrifice is what they must give up (T136).
+**Steps.** 1) Write the dream outcome in the buyer's words. 2) Rate each of the four levers from the buyer's view. 3) Fix the weakest lever first; the bottom two (time, effort) are usually cheapest to move. 4) Add proof to lift likelihood. 5) Build a quick win into the first 7 to 14 days, found by comparing what your top customers did early with the rest (T136).
 **When to use.** Low close rates across reps, price objections, designing or repackaging any offer.
 **Scoring (1 to 5, guidance).** Rate each lever 1 to 5. An offer scoring 3 or less on any lever has a leak; fix the lowest before touching price or ads.
 **Example.** A personal trainer adds weekly check-ins and meal templates, cutting effort and lifting likelihood, and moves from hourly sessions to a higher-priced twelve-week package.
+**In the author's words.** "effort and sacrifice is a nod to convenience right effort is what you what a prospect has to now begin doing that they don't want to do that they weren't doing before they started working with you" (T136). On time, the lever he pushes hardest: "the fastest way that you can provide value is look what everyone else in the market is doing and do it in half the time" (T136).
 
 ### Grand Slam Offer
 **Sources:** [B01].
-**What it is.** A method for building an offer so complete it cannot be compared like for like, which takes it out of price competition.
+**What it is.** A method for building an offer so complete it cannot be compared like for like, which takes it out of price competition. Price is the symptom and value is the cause: solve every problem a specific buyer has, and the higher price you can then charge adds perceived value of its own (T136).
 **Steps.** 1) Name the dream outcome. 2) List every problem the buyer faces before, during and after getting it. 3) Turn each problem into a solution. 4) Pick delivery vehicles (one to one, group, done for you, tools, templates). 5) Trim costly, low-value items; stack the high-value, low-cost ones. 6) Add enhancers.
 **When to use.** Commodity pressure, a new product, any service business quoting by the hour or unit.
 **Scoring (1 to 5, guidance).** 1 = same as competitors at a lower price. 3 = some unique extras. 5 = the buyer cannot find a like-for-like comparison.
 **Example.** A roofer bundles an inspection report, financing help, insurance claim support and a workmanship guarantee instead of quoting per square meter.
+**In the author's words.** "the price is the is this is the symptom not the cause right so the cause is that people are not providing sufficient value" (T136). "if i charge uh ten thousand dollars for a hundred thousand value they'll tell everybody" (T136).
 
 ### Starving Crowd (Pick the Market First)
 **Sources:** [B01], with the smallest viable market in [B22] and the Ideal Customer Profile in [B10].
-**What it is.** Market beats offer beats persuasion. Choose buyers with massive pain, purchasing power, who are easy to target, in a growing market.
+**What it is.** Market beats offer beats persuasion. Choose buyers with massive pain, purchasing power, who are easy to target, in a growing market. Under $1M in revenue, he says, run one product, one avatar and one channel (T136).
 **Steps.** 1) List candidate segments. 2) Score each on the four indicators. 3) Pick one narrow, named group. 4) Write green and red flags from your best current customers [B10]. 5) Build the offer for that group only.
 **When to use.** Before building an offer, when the offer works for some buyers but not others, or when marketing "to everyone."
 **Scoring (1 to 5, guidance).** One point per indicator clearly met, plus one if you can name where these buyers gather.
 **Example.** A bookkeeper moves from "small businesses" to multi-site dental practices, who feel the pain, can pay, gather in one association, and are growing.
+**In the author's words.** "it's one product one avatar and one channel and that is how you get from zero to a million that's it" (T136).
 
 ### Offer Enhancers and Guarantees (Risk Reversal)
 **Sources:** [B01], with lowering the action threshold in [B12] and downsells in [B03].
@@ -91,14 +94,14 @@ Built from the 36 Business books (B01 to B36) and the old Sales, Marketing and G
 
 ## Stage 2: Leads
 
-### The Core Four
+### Core Four
 **Sources:** [B02].
 **What it is.** The only four ways to let people know about an offer: warm outreach, posting free content, cold outreach, paid ads. Warm or cold is whether they know you; one to one or one to many is the other axis (T025).
 **Steps.** 1) List which of the four you run and at what volume. 2) Start with warm outreach, which is cheapest. 3) Add one more at fixed daily volume. 4) Track engaged leads per method.
 **When to use.** Not enough leads, or a single source.
 **Scoring (1 to 5, guidance).** 1 = one source, irregular. 3 = two sources run weekly and tracked. 5 = at least one source at fixed daily volume with cost per engaged lead known.
 **Example.** A physio clinic that only runs ads adds messages to past patients and a referral ask at discharge.
-**In the author's words.** "There are the only four ways you can let other people know about your stuff. Core for number one, warm outreach. Core for number two, posting free content. Core for number three, running paid ads. Core for number four, cold outreach." (T025)
+**From the launch talk (paraphrased).** He lists the four as the only ways you can let people know about your stuff, in the order warm outreach, posting free content, paid ads, cold outreach (T025).
 
 ### Lead Getters
 **Sources:** [B02].
@@ -107,7 +110,7 @@ Built from the 36 Business books (B01 to B36) and the old Sales, Marketing and G
 **When to use.** The owner is the only lead source, or the Core Four works but caps out at the owner's hours.
 **Scoring (1 to 5, guidance).** 1 = no one but the owner brings leads. 3 = referrals happen but are not asked for. 5 = at least two lead getter groups produce tracked leads each month.
 **Example.** A pool installer pays local landscapers a fee per completed install they refer.
-**In the author's words.** "because only two people can let strangers know about the stuff you sell. You and other people." (T025)
+**From the launch talk (paraphrased).** Only two kinds of people can tell strangers about what you sell, you and other people, so the most efficient advertising is done by others on your behalf (T025).
 
 ### Lead Magnet
 **Sources:** [B02], with [B25, B15].
@@ -344,24 +347,26 @@ Built from the 36 Business books (B01 to B36) and the old Sales, Marketing and G
 ## Stage 4: Money Model
 
 ### Money Model (Attraction, Upsell, Downsell, Continuity)
-**Sources:** [B03], with offer building in [B01] and option framing in [B13].
-**What it is.** A planned sequence of offers so each new customer pays back what it cost to win and serve them, ideally within 30 days.
-**Steps.** 1) Attraction offer to start the relationship. 2) Upsell right after the yes, solving the next problem the purchase creates. 3) Downsell when the buyer says no to price. 4) Continuity offer for recurring revenue, eased with a bonus, discount or waived fee (detail uncertain). 5) Build one offer at a time and check 30-day gross profit against acquisition cost.
+**Sources:** [B03] (T137), with offer building in [B01] and option framing in [B13].
+**What it is.** A planned sequence of offers so customers spend twice as much on you as you spend on them within 30 days (T137). Four offer types hold 15 mechanisms: attraction offers get people to buy (win your money back, giveaways, decoy offer, buy X get Y free, pay less now or pay more later); upsell offers get them to spend more (classic, menu, anchor, rollover); downsell offers get them to buy something when they say no (payment plan, trial, feature downsell); continuity offers get them to buy again and again (continuity bonus, continuity discount, waived fee) (T137). The talk caption reads dummy offer for the decoy.
+**Steps.** 1) Attraction offer: something free or discounted that brings the customer in and leads to something better at a higher price. 2) Upsell right after the yes, solving the next problem the purchase creates; on a menu upsell, unsell what they do not need, prescribe what they do, ask A or B, and make paying easy (T137). 3) Downsell when the buyer says no to price. 4) Continuity offer for recurring revenue, started with a bonus worth more than the first payment, a discount for paying a year up front, or a waived fee for committing long term (T137). 5) Build one offer at a time and check 30-day gross profit against twice CAC plus COGS.
 **When to use.** One-product businesses, rising acquisition costs, buyers who walk at the price. Check delivery capacity first.
 **Scoring (1 to 5, guidance).** 1 = one offer, one price, nothing after. 3 = an upsell or payment plan exists but is not offered every time. 5 = every buyer hears a planned next offer, every no hears a planned downsell, and 30-day profit covers acquisition.
 **Example.** A dental clinic runs a low-cost first visit, offers a cleaning plan at checkout, a payment plan to those who decline full treatment, and a yearly membership.
+**In the author's words.** "A money model is a sequence of offers. A $100 million money model is a sequence of offers that make customers spend twice as much on you as you do on them in 30 days or less." (T137) "An attraction offer is something free or discounted that gets a customer in the door but makes money by getting them to buy something better at a higher price." (T137)
 
 ### 30-Day Cash and Client-Financed Acquisition
 **Sources:** [B03], with lifetime gross profit to acquisition cost in [B02].
-**What it is.** Grow only as fast as customers fund it. If gross profit in a customer's first 30 days covers the cost to acquire and serve them, every new customer pays for the next.
-**Steps.** 1) Compute cost to acquire a customer (CAC) by channel. 2) Compute 30-day gross profit per customer. 3) If 30-day profit is below CAC, add or fix money model offers before raising spend. 4) Check lifetime gross profit against CAC; about 3 to 1 is his healthy floor (detail uncertain). 5) Scale spend while the ratios hold.
+**What it is.** Grow only as fast as customers fund it. His rule: 30-day gross profit should be more than twice the cost to acquire a customer plus the cost to serve them (CAC plus COGS) (T137). Then every new customer pays for the next, and cash stops limiting growth. Simply covering CAC is break-even, not his target.
+**Steps.** 1) Compute cost to acquire a customer (CAC) by channel. 2) Compute 30-day gross profit per customer and the cost of goods sold to serve them. 3) If 30-day profit is below twice CAC plus COGS, add or fix money model offers before raising spend. 4) Check lifetime gross profit against CAC; about 3 to 1 is his healthy floor (detail uncertain). 5) Scale spend while the ratios hold.
 **When to use.** Before scaling ads or hiring sales, or when growth keeps draining cash.
-**Scoring (1 to 5, guidance).** 1 = CAC unknown. 3 = CAC known, payback beyond 90 days. 5 = 30-day gross profit above CAC and tracked monthly.
-**Example.** A home services firm adds a paid maintenance plan at the first visit, so first-month profit covers its ad cost per customer and it can raise spend safely.
+**Scoring (1 to 5, guidance).** 1 = CAC unknown. 3 = CAC known, payback beyond 90 days. 4 = 30-day gross profit covers CAC. 5 = 30-day gross profit above twice CAC plus COGS and tracked monthly.
+**Example.** A home services firm adds a paid maintenance plan at the first visit, so first-month profit is double its ad and service cost per customer and it can raise spend safely.
+**In the author's words.** "30-day gross profit is greater than two times cost of acquiring customer plus cost of goods sold or CAC plus COGS." (T137)
 
 ### Downsell Instead of Discount
 **Sources:** [B03], with the action threshold in [B12].
-**What it is.** When a buyer says no to price, keep the price of the main offer and offer a smaller step: a payment plan, a trial with conditions, or a lighter version.
+**What it is.** When a buyer says no to price, keep the price of the main offer and offer a smaller step. His three downsells are a payment plan, a trial and a feature downsell, a lighter version with fewer parts (T137).
 **Steps.** 1) Prepare the downsell before the call. 2) On a price no, confirm the buyer wants the result. 3) Offer the payment plan first, then the lighter version. 4) Never cut the main price on the spot.
 **When to use.** Prospects leave with nothing after the price, or reps discount to close.
 **Scoring (1 to 5, guidance).** 1 = discount or lose. 3 = a downsell exists but is improvised. 5 = every price no hears a planned downsell and the main price holds.

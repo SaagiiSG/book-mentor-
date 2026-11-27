@@ -26,21 +26,21 @@ Hand off:
 4. **Money Model:** sequence offers to get paid more, sooner, and keep customers [B03, B33, B25].
 5. **Scale:** a business that runs without you and is worth buying [B28 to B36].
 
-Hormozi's own order: "You need the stuff to sell and offer. You need people to sell it to leads. Then you got to get all those people to buy it." (Alex Hormozi, talk T025)
+Hormozi's own order: something to sell, people to sell it to, then getting them to buy, and only then money (talk T025, paraphrased). "So, there might not be anything wrong with your business. You might just have something wrong with your money model." (Alex Hormozi, talk T137)
 
 ## The 12 rules
 
 1. Find the constraint stage before changing anything; fix stages in spine order. Synthesis of [B01, B02, B03].
 2. Most sales and lead problems are offer problems. [B01]
 3. Market before offer before persuasion: hungry buyers with money, easy to reach. [B01, B22]
-4. Raise value before cutting price: outcome, likelihood, speed, effort. [B01]
+4. Raise value before cutting price: outcome, likelihood, speed, effort and sacrifice. Price is the symptom, value the cause (T136). [B01]
 5. Your competition is what the buyer would do without you; own one idea. [B17, B16]
-6. Run one Core Four channel at full daily volume before adding another. [B02, B09] "All else being equal, when you double your leads, you double your business." (Alex Hormozi, talk T025)
+6. Run one Core Four channel at full daily volume before adding another. [B02, B09] All else equal, doubling leads doubles the business (Hormozi, talk T025, paraphrased).
 7. Hook first, specific claims, tracked to sales. [B24, B19, B21]
 8. Diagnose before you prescribe; no impact, no deal. [B04, B07]
 9. Every meeting ends with a dated next step; qualify out early. [B04, B10, B06]
 10. Downsell, do not discount; plan the next offer for every buyer. [B03]
-11. Customers should pay back their acquisition cost within about 30 days of gross profit before you scale spend. [B03]
+11. Before you scale spend, 30-day gross profit per customer should be more than twice what it costs to get and serve them (CAC plus COGS, T137). [B03]
 12. If it cannot run without the owner, it is a job; standardize the core offer. [B28, B34]
 
 ## The 10 frameworks reached for first
@@ -49,12 +49,12 @@ Hormozi's own order: "You need the stuff to sell and offer. You need people to s
 2. Grand Slam Offer [B01]
 3. Core Four and Lead Getters [B02]
 4. More, Better, New and Rule of 100 [B02]
-5. Money Model: attraction, upsell, downsell, continuity [B03]
+5. Money Model (Attraction, Upsell, Downsell, Continuity) with 30-Day Cash and Client-Financed Acquisition [B03]
 6. Positioning Components [B17]
-7. Gap Analysis [B07] with SPIN Questioning [B04]
+7. Gap Analysis [B07] with SPIN Questioning [B04] and Objections as Value Levers [B01]
 8. Three Tens and the Action Threshold [B12]
 9. Profit First Allocation [B33]
-10. Built to Sell Readiness [B34] with Technician, Manager, Entrepreneur [B28]
+10. Built to Sell Readiness [B34] with Technician, Manager, Entrepreneur and the Franchise Prototype [B28]
 
 Steps and scoring are in frameworks.md; stage diagnostics in spine.md.
 
@@ -62,7 +62,7 @@ Steps and scoring are in frameworks.md; stage diagnostics in spine.md.
 
 1. **Find the constraint stage:** Offer, Leads, Close, Money Model or Scale (spine.md).
 2. **Get the numbers** for that stage, not the story [B29].
-3. **Apply Hormozi's frame** for it: Value Equation, Core Four, Money Model, or the spine order itself.
+3. **Apply Hormozi's frame** for it: Value Equation and Grand Slam Offer, Core Four and Lead Getters, Objections as Value Levers, Money Model, or Leverage at Every Level.
 4. **Add one or two supporting frameworks** and score them 1 to 5.
 5. **Write this week's move:** the offer change, the daily lead volume, the words for the next call.
 6. **Set one metric and a recheck date,** then look for the next constraint.
@@ -73,7 +73,7 @@ Steps and scoring are in frameworks.md; stage diagnostics in spine.md.
 2. How many engaged leads came last week, by source?
 3. What share of qualified buyers say yes, and why do the rest say no?
 4. What do buyers compare you to, and how often do they ask for a discount?
-5. What gross profit does a customer bring in 30 days, against what it cost to get them?
+5. What gross profit does a customer bring in 30 days, against twice what it cost to get and serve them?
 6. What breaks if you disappear for two weeks?
 
 ## Where this lens misfires
