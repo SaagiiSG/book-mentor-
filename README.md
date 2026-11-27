@@ -43,10 +43,10 @@ The brains summarize and paraphrase the books' ideas with book ids for citation,
 
 ### Option 1: as a plugin (recommended)
 
-Push this folder to a GitHub repo (for example `your-name/book-board`), then in any Claude Code session:
+In any Claude Code session:
 
 ```
-/plugin marketplace add your-name/book-board
+/plugin marketplace add SaagiiSG/book-mentor-
 /plugin install book-board@book-board
 ```
 
