@@ -1,7 +1,7 @@
 {
   "name": "book-board",
-  "version": "1.1.0",
-  "description": "A business advisory board built from 100 books: Productivity, Sales, Business Growth and Marketing brains, with a router that sends each question to the right department or runs several as parallel subagents and synthesizes one answer.",
+  "version": "2.0.0",
+  "description": "An advisory board built from 103 books: Business (built on Hormozi's $100M series), Productivity, Mindset, Psychology and Mental Health, and Relationships and Leadership brains, with a router that sends each question to the right department or runs several as parallel subagents and synthesizes one answer.",
   "keywords": [
     "business",
     "sales",

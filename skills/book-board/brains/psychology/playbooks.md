@@ -260,7 +260,7 @@ Built from the 15 Psychology and Mental Health books (H01 to H15) and the framew
 5. The words to use with clients and staff hand off to Relationships and Leadership.
 
 **Sign to watch:** number of clear noes per week, and whether you held the boundary each time.
-**Common mistake:** setting a boundary once and dropping it; inconsistency teaches people to push (T126 context).
+**Common mistake:** setting a boundary once and dropping it; inconsistency teaches people to push (H15, T126).
 
 ## 15. Should I see a therapist?
 
