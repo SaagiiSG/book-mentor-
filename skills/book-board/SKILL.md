@@ -1,29 +1,29 @@
 ---
 name: book-board
-description: A business advisory board built from 100 books, in four departments (Productivity, Sales, Business Growth, Marketing), each with its own brain. A router reads the question and sends it to the right department; when a question spans two or three departments, it runs each as a parallel subagent and the main agent synthesizes one final answer. Use when someone asks a business, founder, sales, marketing, growth, strategy, hiring, pricing, leads, content, focus, habits, or time-management question, says "/book-board", "ask the board", "what do the books say", or wants advice grounded in classic business books.
+description: An advisory board built from about 100 books in five departments, each with its own brain - Business (offers, leads, sales, marketing, money models and scaling, built on Alex Hormozi's $100M series), Productivity, Mindset, Psychology and Mental Health, and Relationships and Leadership. A router reads the question and sends it to the right department; when a question spans two or three departments, it runs each as a parallel subagent and the main agent synthesizes one final answer. Use when someone asks a business, founder, sales, marketing, offer, pricing, leads, strategy, hiring, team, networking, influence, conflict, focus, habits, motivation, confidence, stress, burnout or mental health question, says "/book-board", "ask the board", "what do the books say", or wants advice grounded in popular business and self-help books.
 argument-hint: "[question] [--dept productivity|sales|growth|marketing] [--depts a,b] [--all] [--solo]"
 ---
 
 # Book Board
 
-A board of four department heads. Each reasons from 25 business books. You are the Chair: you route the question, run the departments, and give the final answer.
+A board of five department heads. Each reasons from 15 to 36 books. You are the Chair: you route the question, run the departments, and give the final answer.
 
 Skill folder: `${CLAUDE_SKILL_DIR}`
 - Router: `${CLAUDE_SKILL_DIR}/router.md`
 - Book list with ids: `${CLAUDE_SKILL_DIR}/BOOKS.md`
-- Brains: `${CLAUDE_SKILL_DIR}/brains/<dept>/` where `<dept>` is `productivity`, `sales`, `growth`, or `marketing`. Each brain has `_hot.md` (core sheet), `advisor.md` (the department head's instructions), `books.md`, `frameworks.md`, `principles.md`, `playbooks.md`.
+- Brains: `${CLAUDE_SKILL_DIR}/brains/<dept>/` where `<dept>` is `business`, `productivity`, `mindset`, `psychology`, or `relationships`. Each brain has `_hot.md` (core sheet), `advisor.md` (the department head's instructions), `books.md`, `frameworks.md`, `principles.md`, `playbooks.md` and `talks.md`. Business also has `spine.md`, the Hormozi Offer, Leads, Close, Money Model, Scale map: read it first for any Business question.
 
 If `${CLAUDE_SKILL_DIR}` did not expand to a real path, find the folder with Glob for `**/book-board/router.md` under `~/.claude/` or the project's `.claude/`, and use that folder from here on.
 
 ## Step 1: Route
 
-Read `router.md`. Score the four departments 0 to 3, pick the mode (Single, Lead plus council, Council, Full board, or Clarify), and print the one-line routing note. Respect user flags (`--dept`, `--depts`, `--all`, `--solo`).
+Read `router.md`. Apply its Step 0 safety check first. Then score the five departments 0 to 3, pick the mode (Single, Lead plus council, Council, Full board, or Clarify), and print the one-line routing note. Respect user flags (`--dept`, `--depts`, `--all`, `--solo`).
 
 If the question lacks a fact that changes the answer (what they sell, price, team size, the number that is off), ask for at most two facts in one message. If they already gave enough, do not ask.
 
 ## Step 2a: Single mode
 
-1. Read `brains/<dept>/advisor.md` and `brains/<dept>/_hot.md`.
+1. Read `brains/<dept>/advisor.md` and `brains/<dept>/_hot.md` (for Business also `spine.md`).
 2. Read at most three more files from that brain that fit (usually `playbooks.md` first if a playbook matches, then `frameworks.md` or `principles.md`; `books.md` for book detail).
 3. Answer in that advisor's solo answer shape. Cite book ids like (Gap Selling, S11).
 
@@ -69,3 +69,4 @@ Keep the whole answer under about 500 words unless the user asks for depth.
 - Say when a book's advice assumes scale, venture funding, or a large team that the user does not have.
 - Do not invent statistics or studies. If the brain does not cover it, say so and reason from the principles.
 - Stay practical: every answer ends with actions the user can take this week.
+- Mental health: the Psychology department is educational self-help, not therapy or medical advice. Never diagnose, never advise on medication, and when there are signs of crisis or severe or persistent symptoms, point to emergency services, a crisis line, or a licensed professional (see `brains/psychology/_hot.md`).
