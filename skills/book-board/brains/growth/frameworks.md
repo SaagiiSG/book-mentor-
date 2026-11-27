@@ -1,6 +1,6 @@
 # Frameworks: Business Growth department
 
-Built from the 25 Business Growth books (G01 to G25), ordered most useful first; all descriptions paraphrased. Scoring guides are our guidance, not the books' own scales. Examples are illustrations we wrote, not cases from the books.
+Built from the 25 Business Growth books (G01 to G06, G08 to G14, G16 to G19, G23 to G30), ordered most useful first; descriptions paraphrased. Quote policy: verbatim quotes appear only from the author talks and public-domain texts in talks.md, always with a T id; copyrighted book text is never quoted. Scoring guides are our guidance, not the books' own scales. Examples are illustrations we wrote, not cases from the books.
 
 ## Five Focusing Steps (Theory of Constraints)
 **Sources:** [G23], limiting step in [G19], bottleneck work in [G17]
@@ -9,6 +9,7 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** Growth is stuck, work piles up somewhere, or every team says it is busy but output is flat.
 **Score a move (guidance):** 1 = improves a non-constraint; 3 = touches the constraint indirectly; 5 = directly raises throughput at the constraint at low cost.
 **Example:** A kitchen fitter wins plenty of jobs but installs only four a month because one lead installer checks every job. Training a second checker beats spending more on ads.
+**In the author's words:** "Companies don't know even to handle one bottleneck." (T018)
 
 ## The Strategy Kernel
 **Sources:** [G14]
@@ -17,14 +18,16 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** The plan is a list of targets ("grow 30%") with no account of the obstacle.
 **Score a plan (guidance):** 1 = goals only; 3 = diagnosis present but actions scattered; 5 = sharp diagnosis, focused policy, actions that fit together.
 **Example:** A regional gym chain diagnoses that budget gyms took casual members; its policy is to own small-group coaching; actions are new class formats, coach hiring and a price change.
+**In the author's words:** "a strategy is not what you hope your performance will be strategy is about how you're going to get there" (T013)
 
-## Strategy Choice Cascade (Where to Play, How to Win)
-**Sources:** [G22]; overlaps with [G14]
-**What it is:** Five linked choices: winning aspiration, where to play, how to win, capabilities needed, management systems needed.
-**Steps:** 1) Define what winning means. 2) Pick segments, channels, geographies. 3) Pick cost leadership or differentiation. 4) Name the capabilities required. 5) Set the systems and measures that support them. Test each option with "what would have to be true".
-**When to use:** Choosing markets, customers or channels; aligning a leadership team.
-**Score (guidance):** 1 = choices missing or contradictory; 3 = where and how chosen but capabilities unclear; 5 = all five consistent and tested.
-**Example:** An accounting firm chooses to play with restaurant owners in two cities and win through fixed-fee monthly packages backed by sector know-how.
+## Five Factors and Seven Comparisons (Know the Rival and Yourself)
+**Sources:** [G26]; diagnosis in [G14]
+**What it is:** Before a competitive move, weigh both sides on the same factors: shared purpose of the team, timing, terrain (market position, distance, access), leadership, and discipline (systems, cash control). Fight only where the comparison already favors you.
+**Steps:** 1) Name the rival and the ground (segment, region, channel). 2) Score both sides on each factor, plus strength, training and consistent rewards. 3) Where you lose, avoid battle or change the ground. 4) Where you win, move fast and keep it short. 5) Prefer beating the rival's plan over a head-on price fight.
+**When to use:** A rival is attacking, a price war looms, or you are about to enter a contested market.
+**Score (guidance):** 1 = acting with no comparison; 3 = compared, but fighting on the rival's strong ground; 5 = chosen ground where you clearly win, short and cheap.
+**Example:** A regional courier loses to a national firm on price but wins on same-day local delivery, so it stops bidding on national contracts and owns the city.
+**In the author's words:** "If you know the enemy and know yourself, you need not fear the result of a hundred battles." (T101)
 
 ## The Hedgehog Concept
 **Sources:** [G01]
@@ -41,6 +44,7 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** Sales come in but cash never stays; the owner underpays themselves.
 **Score (guidance):** 1 = no profit set aside; 3 = profit set aside sometimes; 5 = fixed allocations every cycle with a rising profit share.
 **Example:** A cleaning company moving 2% to profit each deposit finds it must cut an unused software subscription and one van lease.
+**In the author's words:** "the solution is radically simple get smaller plates don't change yourself get smaller plates" (T009)
 
 ## Cash Conversion Cycle
 **Sources:** [G04]
@@ -77,7 +81,7 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 ## Franchise Prototype and Productized Service
 **Sources:** [G02], [G16]
 **What it is:** Design the business so ordinary staff can deliver a consistent result through systems. For services, pick one offer and standardize it.
-**Steps:** 1) Pick the offer you do best and most often. 2) Fix scope and price. 3) Document the delivery steps. 4) Innovate, measure, then make the better way standard. 5) Stop custom work that needs the owner.
+**Steps:** 1) Rank offers on teachable, valuable and repeatable (customers rebuy often) and keep the best [G16]. 2) Fix scope and price. 3) Document the delivery steps. 4) Innovate, measure, then make the better way standard. 5) Stop custom work that needs the owner.
 **When to use:** Quality depends on who does the job; owner wants scale or exit.
 **Score (guidance):** 1 = every job custom; 3 = core offer defined; 5 = standard offer sold and delivered without the owner.
 **Example:** A marketing agency turns ad hoc projects into a fixed monthly search engine package.
@@ -89,6 +93,7 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** 10 to 250 people with growing pains.
 **Score (guidance):** 1 = component absent; 3 = present but loose; 5 = clear and used weekly.
 **Example:** A 40-person contractor finds Data weakest and starts a 10-number weekly Scorecard.
+**In the author's words:** "You cannot build a great company on multiple operating systems. You must choose one." (T004)
 
 ## Accountability Chart and Right People, Right Seats
 **Sources:** [G03]; Function Accountability Chart in [G04]; positions-first org chart in [G02]
@@ -124,7 +129,7 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 
 ## OKRs (Objectives and Key Results)
 **Sources:** [G12]
-**What it is:** An objective states what you want; 3 to 5 key results measure whether you got there. Committed OKRs must be met; aspirational ones stretch.
+**What it is:** An objective states what you want; 3 to 5 key results measure whether you got there. Committed OKRs must be met; aspirational ones stretch. Keep them few (not every task), transparent, and apart from bonuses.
 **Steps:** 1) Pick a few objectives. 2) Write measurable key results. 3) Align with the team. 4) Track regularly. 5) Score at quarter end and learn.
 **When to use:** Teams of roughly 20 plus who need alignment on ambitious goals.
 **Score (guidance):** 1 = vague objectives or tasks as key results; 3 = measurable but too many; 5 = few, measurable, aligned, honestly scored.
@@ -149,10 +154,11 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 ## The A Method for Hiring
 **Sources:** [G24]; topgrading in [G04]; First Who in [G01]
 **What it is:** Scorecard, Source, Select, Sell.
-**Steps:** 1) Write a scorecard: mission, measurable outcomes, competencies. 2) Source mainly through referrals. 3) Run a screening interview, an in-depth career history interview, focused interviews, and reference calls. 4) Sell the candidate on fit, family, freedom, fortune and fun.
+**Steps:** 1) Write a scorecard with the senior team: mission, measurable outcomes with dates, competencies (kept separate; experience is not a competency). 2) Source mainly through referrals. 3) Run a screening interview, an in-depth career history interview, focused interviews, and reference calls. 4) Sell the candidate on fit, family, freedom, fortune and fun.
 **When to use:** Any key hire; a string of bad hires.
 **Score (guidance):** 1 = gut hire; 3 = structured interview without scorecard; 5 = scorecard, history interview and references done.
 **Example:** A practice manager hire is scored on three outcomes, and reference calls reveal a pattern of short stays.
+**In the author's words:** "job descriptions are vague scorecards are specific" (T019)
 
 ## First Who, Then What
 **Sources:** [G01]; supported by [G24], [G04]
@@ -165,10 +171,11 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 ## The Five Dysfunctions Pyramid
 **Sources:** [G25]
 **What it is:** Teams fail through absence of trust, fear of conflict, lack of commitment, avoidance of accountability and inattention to results, each causing the next.
-**Steps:** 1) Build trust by leaders admitting mistakes. 2) Invite open debate on ideas. 3) Close decisions clearly, even without consensus. 4) Hold peers to standards. 5) Put team results above individual goals.
+**Steps:** 1) Build trust by leaders admitting mistakes. 2) Invite open debate on ideas. 3) Let everyone weigh in, then the leader decides; no consensus needed. 4) Peers hold each other to standards, not only the boss. 5) Put team results above individual goals.
 **When to use:** Leadership meetings are polite but nothing changes; decisions get reopened.
 **Score (guidance):** 1 = dysfunction at base (no trust); 3 = debate but weak follow-through; 5 = trust, debate, commitment, accountability and results all visible.
 **Example:** A family firm's leaders agree to name one disagreement per meeting and log decisions to stop reopening them.
+**In the author's words:** "I fundamentally believe that if people don't weigh in they don't buy in" (T020)
 
 ## Build-Measure-Learn and MVP
 **Sources:** [G05]; scratch-your-own-itch and launch now in [G18]
@@ -177,6 +184,7 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** New product, service, market or price where the answer is unknown.
 **Score (guidance):** 1 = full build before any test; 3 = test with opinions only; 5 = small test with real money or commitment.
 **Example:** A fitness studio pre-sells a corporate class to three local firms before hiring an instructor.
+**In the author's words:** "the biggest waste that product development faces today is not building things inefficiently but building things very efficiently that nobody wants" (T005)
 
 ## Innovation Accounting and Actionable Metrics
 **Sources:** [G05]; paired indicators in [G19]
@@ -188,7 +196,7 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 
 ## Pivot or Persevere
 **Sources:** [G05]; strategy coherence in [G14]
-**What it is:** A scheduled, honest decision to keep going or change one element (customer, problem, channel, model).
+**What it is:** A scheduled, honest decision to keep going or change one element (customer, problem, channel, model) while keeping what you have learned. A pivot changes one thing at a time; it is not a general change of direction.
 **Steps:** 1) Set a review date. 2) Show the learning data. 3) Ask if experiments are moving the key metric. 4) Pick a specific pivot type or recommit.
 **When to use:** Effort continues but results stay flat for several cycles.
 **Score (guidance):** 1 = no review; 3 = review with no decision; 5 = clear decision with a named pivot or reason to stay.
@@ -205,10 +213,11 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 ## Crossing the Chasm (Beachhead)
 **Sources:** [G13]; start small and dominate in [G06]
 **What it is:** Pragmatic mainstream buyers need proof from peers. Win them by dominating one narrow segment with a complete solution.
-**Steps:** 1) Pick one segment with a pressing problem. 2) Build the whole product for them. 3) Win references there. 4) Expand to the next adjacent segment (bowling pin).
+**Steps:** 1) Pick one narrow segment (same industry, role and region, one pressing use case) that is big enough to matter and small enough to lead. 2) Build the whole product for them. 3) Win references there. 4) Expand only to an adjacent segment: same customer with a new use, or same use with a new customer (bowling pin).
 **When to use:** Early enthusiasts bought; mainstream buyers stall.
 **Score (guidance):** 1 = selling to everyone; 3 = segment chosen but not dominated; 5 = clear leader in one segment with references.
 **Example:** A scheduling tool focuses only on vet clinics until most clinics in its region use it.
+**In the author's words:** "you want to have a Target segment that is big enough to matter small enough to lead and a good fit with your crown jewels that's the formula" (T012)
 
 ## The Whole Product
 **Sources:** [G13]
@@ -225,14 +234,16 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** Commoditized market, falling prices, everyone looks the same.
 **Score (guidance):** 1 = same curve as rivals; 3 = small differences; 5 = distinct curve with lower cost and higher value on what buyers care about.
 **Example:** A hair salon eliminates long waits and upsells, reduces menu size, raises speed, and creates booking by text.
+**In the author's words:** "what I mean by Blu ocean perspective is that we say for example focus on non customer to create new market space" (T007)
 
 ## Disruptive versus Sustaining Innovation
 **Sources:** [G09]
-**What it is:** Leaders improve for their best customers while cheaper, simpler entrants win overlooked customers and move up.
+**What it is:** Leaders improve for their best customers while cheaper, simpler entrants win overlooked customers and move up. The leader retreats because exiting the low end raises its margins, not because it is asleep.
 **Steps:** 1) Map customers who are over-served. 2) Look for "good enough" cheaper rivals. 3) Decide to ignore, respond, or launch your own low-end offer. 4) If launching, use a separate unit with its own costs and goals.
 **When to use:** A low-cost rival is taking your bottom customers.
 **Score (guidance):** 1 = threat ignored; 3 = monitored; 5 = deliberate response with separate economics.
 **Example:** A tax practice launches a separate low-price online return service run by a small team.
+**In the author's words:** "if you define a business or an approach where you come in at the bottom of them, then in pursuit of profit, the giant is motivated to flee rather than fight you." (T008)
 
 ## Monopoly Test and the Seven Questions
 **Sources:** [G06]
@@ -243,28 +254,13 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **Example:** A local software firm becomes the default tool for one trade association's members.
 
 ## Built to Sell Readiness
-**Sources:** [G16]; owner independence in [G02], [G17], [G07]
-**What it is:** Check that a buyer could take over: standard offer, recurring revenue, sales without the owner, healthy cash flow, a management team.
-**Steps:** 1) Specialize and standardize one offer. 2) Shift to up-front or recurring billing. 3) Hire salespeople for the standard offer. 4) Build managers with long-term incentives. 5) Step out for an extended period and measure.
+**Sources:** [G16]; owner independence in [G02], [G17]
+**What it is:** Check that a buyer could take over: standard offer, recurring revenue, many customers rather than a few, sales without the owner, a positive cash cycle, a management team.
+**Steps:** 1) Specialize and standardize one offer. 2) Shift to up-front or recurring billing. 3) Hire two salespeople at once for the standard offer. 4) Build managers with long-term incentives such as a deferred bonus. 5) Step out for an extended period and measure.
 **When to use:** Exit in 2 to 5 years, or the owner wants freedom.
 **Score (guidance):** 1 = owner sells and delivers; 3 = some parts run without owner; 5 = runs and grows for months without owner.
 **Example:** An IT support firm moves clients to monthly contracts and hires a service manager before talking to buyers.
-
-## Buy Then Build (Acquisition Entrepreneurship)
-**Sources:** [G20]
-**What it is:** Buy an existing profitable small business to skip startup risk, then grow it.
-**Steps:** 1) Set criteria (size, industry, skills fit, location). 2) Search via brokers and direct outreach. 3) Value on cash earnings (SDE or EBITDA). 4) Structure financing (bank debt, seller note, equity). 5) Do due diligence. 6) Transition carefully and grow.
-**When to use:** Choosing between starting and buying; adding a line by acquisition.
-**Score (guidance):** 1 = buying a job with heavy debt; 3 = sound business, thin margin of safety; 5 = stable cash flow, fair price, seller support, clear growth levers.
-**Example:** A manager buys a retiring owner's HVAC firm with part seller financing and adds maintenance contracts.
-
-## Speed versus Efficiency (Blitzscaling)
-**Sources:** [G21]
-**What it is:** In winner-take-most markets with capital available, choose speed over efficiency, accepting waste. Management changes at each stage: Family, Tribe, Village, City, Nation.
-**Steps:** 1) Check for network effects or a large market where first to scale wins. 2) Confirm product/market fit and capital. 3) Name limiters to growth. 4) Decide which fires to let burn. 5) Redesign management as headcount stages change.
-**When to use:** Rare for small businesses. Mostly a test that says "do not blitzscale".
-**Score (guidance):** 1 = no winner-take-most dynamic; 3 = some network effects; 5 = clear race, fit, and capital.
-**Example:** A local services firm with no network effects decides steady growth beats a debt-funded rush.
+**In the author's words:** "when a buyer buys your business they've actually got to write two checks" (T014)
 
 ## Wartime versus Peacetime CEO
 **Sources:** [G11]
@@ -281,22 +277,32 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** Team politics, pay disputes, unclear roles.
 **Score (guidance):** 1 = adds new debt; 3 = neutral; 5 = removes debt.
 **Example:** Giving a counter-offer to a leaving manager seems cheap until the rest of the team asks for the same.
+**In the author's words:** "Decision debt is the worst debt, by the way, cuz it it paralyzes a company." (T010)
 
-## Core Ideology and BHAG
-**Sources:** [G07]; BHAG and purpose on one page in [G04]; core values in [G03]
-**What it is:** Keep a fixed core (values and purpose) while setting a bold long-term goal that pulls progress.
-**Steps:** 1) Find the few values the company already lives. 2) State the purpose beyond money. 3) Set a 10 to 25 year BHAG. 4) Change everything except the core.
+## Extreme Ownership and Prioritize and Execute
+**Sources:** [G29]; wartime focus in [G11]; constraint thinking in [G23]
+**What it is:** The leader owns every result in their world, with no blame passed down or sideways. Under pressure, the team works one top problem at a time.
+**Steps:** 1) In the next review, the leader names what they did wrong first. 2) List the open problems. 3) Pick the one with the most impact. 4) State it simply and give the plan. 5) Act, then move to the next.
+**When to use:** Leaders blame each other, a crisis has many fires, or standards keep slipping.
+**Score (guidance):** 1 = blame and excuses; 3 = ownership at the top, not below; 5 = every leader owns outcomes and the team works the top problem.
+**Example:** After a missed delivery week, a factory owner owns the scheduling error, then has the team fix only the late-order queue before anything else.
+
+## Decentralized Command (Commander's Intent)
+**Sources:** [G29]; task-relevant maturity in [G19]
+**What it is:** Leaders explain the goal, the why and the limits, so junior leaders can decide on the spot without asking.
+**Steps:** 1) Write the intent for each key area in two sentences. 2) Set clear limits (spend, risk, customers). 3) Keep teams small enough for one leader. 4) Check that juniors can say the intent back. 5) Step in only when limits are crossed, closer for people new to the task.
+**When to use:** Every decision funnels to the owner; managers wait for permission.
+**Score (guidance):** 1 = all calls go up; 3 = some delegated, intent unclear; 5 = juniors decide within clear intent and limits.
+**Example:** A restaurant group lets each manager comp meals up to a set amount, with the goal that every guest returns.
+
+## Core Values, Core Focus and BHAG
+**Sources:** [G03]; BHAG and purpose on one page in [G04]
+**What it is:** Keep a fixed core (a few core values and a core focus: purpose plus niche) while setting a bold long-term target that pulls progress. Change everything else.
+**Steps:** 1) Find the few values the company already lives. 2) State the core focus. 3) Set a 10-year target or BHAG. 4) Use the values to hire, review and fire.
 **When to use:** Growth is changing culture; hiring for fit; succession.
 **Score (guidance):** 1 = values are slogans; 3 = values known, not used; 5 = used in hiring, firing and decisions.
 **Example:** A builder uses "do it right the first time" to decide which subcontractors to drop.
-
-## Genius of the AND
-**Sources:** [G07]
-**What it is:** Refuse forced trade-offs; look for ways to get both (quality and speed, profit and purpose).
-**Steps:** 1) State the trade-off. 2) Ask how both could be achieved. 3) Test one design that does both.
-**When to use:** Leaders are stuck in an either/or debate.
-**Score (guidance):** 1 = accepts the trade-off without testing; 3 = partial; 5 = a design that delivers both.
-**Example:** A caterer gets both lower cost and fresher food by narrowing the menu.
+**In the author's words:** "I don't know if you knew this, but core values plus core focus equals soul." (T004)
 
 ## The Flywheel versus the Doom Loop
 **Sources:** [G01]
@@ -314,21 +320,14 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **Score (guidance):** 1 = facts hidden; 3 = facts known, not acted on; 5 = facts faced, plan adjusted, resolve intact.
 **Example:** A restaurant owner admits weekday lunch loses money and closes it while keeping the dinner plan.
 
-## Five Parts of Every Business
-**Sources:** [G15]
-**What it is:** Every business creates value, markets it, sells it, delivers it, and manages finances.
-**Steps:** 1) Rate each part. 2) Find the weakest. 3) Fix that first or hand off (Marketing or Sales departments).
-**When to use:** First diagnosis when the owner is unsure what is wrong.
-**Score (guidance):** 1 = part broken; 3 = adequate; 5 = strong.
-**Example:** A craft brewer rates delivery and finance strong but marketing weak, and hands off to Marketing.
-
 ## Hire When It Hurts and Underdo the Competition
 **Sources:** [G18]
 **What it is:** Stay small and focused: add people only when the pain is real, and offer less but better than rivals.
-**Steps:** 1) Do the work yourself first to understand it. 2) Hire only when it clearly hurts. 3) Cut features or services that dilute focus.
+**Steps:** 1) Do the work yourself first to understand it. 2) Hire only when it clearly hurts. 3) Cut features or services that dilute focus. 4) Keep costs low so you need fewer customers. 5) A year after each hire, ask if you would hire them again.
 **When to use:** Owner wants a lean, profitable business without outside money.
 **Score (guidance):** 1 = hiring ahead of need without funding; 3 = balanced; 5 = lean team, focused offer.
 **Example:** A two-person software shop keeps one product with a short feature list and grows profitably.
+**In the author's words:** "if you're making more than you spend, then your competition is your cost and that's what you're really in business against is how much it costs you to stay in business." (T016)
 
 ## Business Development Process (Innovate, Quantify, Orchestrate)
 **Sources:** [G02]; small batches in [G05]
@@ -337,3 +336,30 @@ Built from the 25 Business Growth books (G01 to G25), ordered most useful first;
 **When to use:** Improving a system already in place.
 **Score (guidance):** 1 = changes made without measuring; 3 = measured but not standardized; 5 = measured and standardized.
 **Example:** A hotel tests a new check-in greeting, sees better review scores, and writes it into the training guide.
+
+## Asset or Liability Test
+**Sources:** [G27]; owner pay and profit first in [G10]; owner trap in [G16]
+**What it is:** A thing is an asset if it puts cash in your pocket and a liability if it takes cash out, whatever the accounts call it.
+**Steps:** 1) For a planned purchase (van, office, software, hire), estimate monthly cash in and out. 2) Fund assets first; delay liabilities. 3) Ask whether the business pays the owner without the owner working; if not, it is a job. 4) Check tax and debt with an accountant.
+**When to use:** The owner spends on status items, or confuses a busy business with a valuable one.
+**Score (guidance):** 1 = buys liabilities that look like assets; 3 = mixed; 5 = spending tested for cash return, business pays without owner labor.
+**Example:** A landscaper skips a new showroom and buys a second mower crew rig that pays for itself in four months.
+**In the author's words:** "if it puts money in my pocket it's an asset" (T021)
+
+## Room for Error and Enough
+**Sources:** [G28]; cash discipline in [G10]; small and calm in [G18]
+**What it is:** Survival comes before growth. Keep a buffer so a bad year cannot sink the business, and decide what enough looks like so the goal does not keep moving.
+**Steps:** 1) Write the owner's enough: income, hours, size. 2) Set a cash reserve target in months of costs. 3) Stress test debt against a revenue drop. 4) Reject moves that risk ruin, however attractive. 5) Revisit enough yearly.
+**When to use:** Heavy debt, no reserve, or an owner who keeps raising the target and burning out.
+**Score (guidance):** 1 = no reserve, no defined enough; 3 = some buffer; 5 = reserve funded, debt survives a bad year, enough written down.
+**Example:** A dental practice owner decides two sites is enough, builds six months of reserve, and turns down a third lease.
+**In the author's words:** "the hardest financial skill is getting the goal posts to stop moving" (T022)
+
+## Leverage and Specific Knowledge
+**Sources:** [G30]; productized offers in [G16]; small teams in [G18]
+**What it is:** Grow output without growing hours. Labor and capital need someone's permission; code and media do not. Point leverage at what the owner or firm knows that others cannot easily copy.
+**Steps:** 1) Name the firm's specific knowledge. 2) List where output still needs owner hours. 3) For each, pick the leverage type: people, money, software or content. 4) Prefer software and content where they fit. 5) Own equity in what you build.
+**When to use:** The owner trades time for money; choosing between a new hire and a tool or content asset.
+**Score (guidance):** 1 = all output tied to hours; 3 = some people leverage; 5 = code or media leverage on top of a clear specialty.
+**Example:** A tax adviser turns her most common answer into a paid course and calculator, freeing ten hours a week.
+**In the author's words:** "If you pay careful attention, you realize that knowledge is the big multiplier. It's not the capital." (T024)

@@ -64,7 +64,7 @@ Keep the whole answer under about 500 words unless the user asks for depth.
 
 ## Rules
 
-- The departments are synthesized advisors built from book ideas, not the authors. Never claim an author said something word for word. The brains paraphrase: do not present any line as a quote from a book.
+- The departments are synthesized advisors built from book ideas, not the authors. Book text is never quoted. The only verbatim lines are author quotes from talks and interviews (and the public-domain texts of The Art of War and Meditations) that carry a T id, listed in each brain's `talks.md`. Attribute them like (James Clear, talk T047). Everything else is paraphrase cited by book id.
 - Cite book ids so the user can go read the source.
 - Say when a book's advice assumes scale, venture funding, or a large team that the user does not have.
 - Do not invent statistics or studies. If the brain does not cover it, say so and reason from the principles.

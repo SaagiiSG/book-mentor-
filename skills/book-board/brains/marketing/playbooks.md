@@ -1,6 +1,8 @@
 # Playbooks: Marketing department
 
-Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md. Each playbook: diagnose first, then act.
+Built from the 25 Marketing books (M01 to M19, M21, M24, M26 to M29) and the frameworks in frameworks.md. Each playbook: diagnose first, then act.
+
+Quote policy: verbatim quotes appear ONLY from the author talks and public-domain texts listed in talks.md, always with a T id. Text of copyrighted books is never quoted. Everything else is paraphrase cited by book id.
 
 ## 1. "I don't get enough leads"
 **Ask first**
@@ -61,7 +63,7 @@ Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md.
 1. Run the grunt test on the homepage [M02].
 2. Put one direct CTA and one transitional CTA above the fold [M02].
 3. Lead with the customer's problem and result, not your history [M02, M12].
-4. Add specific proof: numbers, named results, reviews [M14, M22].
+4. Add specific proof: numbers, named results, reviews [M14, M04].
 5. Answer price and common objections on the page [M17].
 6. Add a lead magnet for visitors not ready to talk [M01].
 **Metric** Visitor to inquiry rate on key pages.
@@ -74,12 +76,12 @@ Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md.
 3. How long can you wait for results?
 4. Which channels have you tried, and with what numbers?
 **Plan**
-1. Brainstorm channels using the Bullseye list [M20].
-2. Rank into inner, middle, outer rings by fit and cost.
-3. Test the top two or three with small budgets and a fixed end date [M20].
+1. List candidate channels across the Core Four [M01].
+2. Rank them by how well they reach your best buyer and what they cost.
+3. Run discovery tests on the top two or three, with small budgets and a fixed end date [M24].
 4. Track cost per customer for each [M14].
-5. Focus on the winner; drop the rest [M20].
-6. Revisit when that channel plateaus.
+5. Focus on the winner and apply More, Better, New [M01]; drop the rest.
+6. Revisit when that channel plateaus; channels age fast [M24].
 **Metric** Cost per customer and volume available per channel.
 **Common mistake** Choosing a channel because a competitor uses it.
 
@@ -107,11 +109,11 @@ Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md.
 **Plan**
 1. List every question from sales calls and emails [M17].
 2. Cover the Big 5 first: price, problems, comparisons, reviews, best-of [M17].
-3. Find your content tilt so you are not one more voice [M25].
-4. Pick one platform and a fixed schedule [M25].
-5. Make posts native to that platform; mostly value, with periodic asks [M16].
-6. Draft fast and edit for the reader [M23].
-7. Push readers to an email list [M25, M10].
+3. Show the process: what you are working on, learning, and getting wrong [M27].
+4. Pick one platform and a fixed schedule [M01].
+5. Frame niche knowledge under a broad theme strangers care about, and write the first three seconds first [M29].
+6. Make posts native to that platform; mostly value, with periodic asks [M16, M28].
+7. Push readers to an email list [M10].
 **Metric** Leads or subscribers from content per month.
 **Common mistake** Posting on five platforms irregularly, then quitting at month two.
 
@@ -140,7 +142,7 @@ Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md.
 1. Define best fit and alternatives [M18].
 2. Frame it as a new opportunity if buyers have tried other options [M11].
 3. Design for STEPPS, especially social currency and triggers [M03].
-4. Seed it with your sneezers and existing list first [M08, M25].
+4. Seed it with your sneezers and existing list first [M08, M01].
 5. Run a small launch to measure response before spending [M14, M24].
 6. Check line extension risk to your main brand [M05, M06].
 **Metric** Conversion of existing list and repeat or referral rate in the first month.
@@ -155,7 +157,7 @@ Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md.
 **Plan**
 1. Write subject lines like headlines: specific benefit, curiosity gap [M13, M04].
 2. Add a welcome sequence that tells your story and opens loops [M10].
-3. Write to one reader, short and human [M23].
+3. Write to one reader around one simple, concrete idea [M04].
 4. Mix mostly value with clear periodic offers [M16].
 5. Test subject lines and track clicks to sales [M14].
 **Metric** Click rate and revenue per email sent.
@@ -216,7 +218,7 @@ Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md.
 1. Run the must-have survey [M24].
 2. If below the bar, fix product first; hand off to Growth [G05].
 3. Check penetration: are you reaching light and new buyers [M15]?
-4. Rerun Bullseye for a second channel [M20].
+4. Run discovery tests for a second channel [M24, M01].
 5. Set up a weekly test cycle with ICE [M24].
 **Metric** New customers per month and North Star Metric [M24].
 **Common mistake** Spending more on a saturated channel.
@@ -243,10 +245,27 @@ Built from the Marketing books (M01 to M25) and the frameworks in frameworks.md.
 3. Can you commit for 12 months?
 4. How will it make money?
 **Plan**
-1. Define sweet spot and tilt [M25].
-2. Choose one platform buyers use [M25, M20].
-3. Plan topics from buyer questions [M17].
-4. Publish on a fixed schedule; drive subscribers to email [M25].
-5. Review leads at 90 days; decide to continue or switch [M20].
+1. Pick the format that fits the owner's strengths: talking, writing, or showing [M28].
+2. Choose one platform buyers use [M01].
+3. Plan topics from buyer questions [M17] and from the work in progress [M27].
+4. Test hooks on the first seconds of each episode or video [M29].
+5. Publish on a fixed schedule; drive subscribers to email [M10].
+6. Review leads at 90 days; decide to continue or switch [M24].
 **Metric** Owned subscribers and leads from content.
 **Common mistake** Starting all three, then stopping all three.
+
+## 17. "Nobody knows who I am" (building a founder brand)
+**Ask first**
+1. Why does the business exist, beyond making money?
+2. What are you good at on camera, in writing, or in person?
+3. What could you show every day from your actual work?
+4. How many hours a week can you give this for a year?
+**Plan**
+1. Write the why, how, and what in three lines; check it against recent decisions [M26].
+2. Choose one format and platform that fit your strengths [M28].
+3. Share one small piece of process or a lesson each day [M27].
+4. Write several hooks per post and keep the winners [M29].
+5. Give mostly value, with a clear ask once a week [M16].
+6. Track which posts bring inquiries, not just views [M14].
+**Metric** Inquiries per month that mention your content.
+**Common mistake** Chasing views from strangers who will never buy.

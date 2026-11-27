@@ -1,6 +1,8 @@
 # Playbooks: Sales department
 
-Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: common owner situations, what to ask, what to do, and what to watch.
+Built from the 25 Sales books in BOOKS.md (S01 to S28, retired ids skipped) and the frameworks in frameworks.md: common owner situations, what to ask, what to do, and what to watch.
+
+Quote policy: verbatim quotes appear only from the author talks and public-domain texts listed in talks.md, always with a T id. Text of copyrighted books is never quoted. Everything else is paraphrase cited by book id.
 
 ## 1. My close rate dropped
 
@@ -8,14 +10,14 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 - Did it drop at every stage, or at one stage (meeting to proposal, proposal to signed)?
 - Did lead sources, price, offer, or reps change in the last 90 days?
 - Are deals lost to competitors, or to "no decision"?
-- How many deals in the pipeline have a confirmed economic buyer?
+- How many open deals have a dated next step with the person who signs?
 
 **Plan**
 1. Break the funnel into stages and find the one that fell (Metrics-Driven Coaching, S08).
-2. If lead mix changed, check fit against your Ideal Customer Profile (S09, S07).
-3. Review five lost deals for thin discovery: was the gap and its cost stated by the buyer? (Gap Analysis, S11; SPIN, S01).
-4. Sort losses into status quo versus indecision (S24). Status quo: build the case for change (S02). Indecision: recommend and de-risk (JOLT, S24).
-5. Run MEDDPICC on open deals and qualify out the weakest (S20).
+2. If lead mix changed, check fit against your Ideal Customer Profile and its red flags (S09, S07).
+3. Review five lost deals for thin discovery: did the buyer state the impact and root cause? (Gap Analysis, S11; SPIN, S01).
+4. Sort stalls into no impact (rebuild the case for change, S02, S11) versus no certainty (recommend one path, lower the first step, S15).
+5. Qualify out open deals that fail your must-haves (S09, S03).
 6. If every rep dropped at once, look at the offer before the people (Value Equation, S07).
 7. Coach one skill per rep for 30 days and recheck (S08).
 
@@ -32,12 +34,12 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 
 **Plan**
 1. Clarify the objection with a calibrated question to find the real concern (S03, S22).
-2. Go back to discovery: quantify the cost of the problem so price is compared against it (S11, S01).
+2. Go back to discovery: quantify the impact of the problem so price is compared against it (S11, S01).
 3. Raise value on the Value Equation levers instead of cutting price (S07).
 4. Rebuild the offer to resist like-for-like comparison (Grand Slam Offer, S07).
 5. Present a small number of options with a clear recommendation (S19, S05).
-6. Add risk reversal you can afford (S07, S24).
-7. If cash flow, change terms, not total price (synthesis of S03, S21).
+6. If they still say no, offer a planned downsell such as a payment plan or lighter version, not a discount (S28).
+7. Add risk reversal you can afford (S07, S15).
 
 **Metric.** Average deal value and win rate on proposals sent.
 **Common mistake.** Discounting immediately, which teaches buyers to always ask.
@@ -45,21 +47,21 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 ## 3. Deals stall at "let me think about it"
 
 **Ask first**
-- Did the buyer agree on the problem and its cost?
-- Are they afraid of choosing wrong, or unsure change is needed?
+- Did the buyer state the problem and its cost?
+- Are they unsure change is needed, or unsure about you, the product, or your company?
 - How many options did you give them?
 - What is the next dated step in the calendar?
 
 **Plan**
-1. Diagnose status quo versus indecision (S24).
-2. For indecision, give one clear recommendation (S24).
-3. Limit exploration: tell them what they do not need to research (S24).
-4. Take risk off the table: pilot, opt-out, phased start (S24, S07).
-5. Label the hesitation calmly and ask what would need to be true to move (S03).
-6. Never leave without a dated advance (S01).
+1. Diagnose no impact versus no certainty (Stalled Deal Diagnosis, synthesis of S11, S15).
+2. For no certainty, find which of the three tens is weakest and address it (S15).
+3. Stop pitching; relate as a person and ask what else concerns them (S22).
+4. Label the hesitation calmly and ask what would need to be true to move (S03).
+5. Recommend one option, and lower the action threshold: a small start, pilot, or guarantee (S15, S19, S07).
+6. Never leave without a dated advance on both calendars (S01, S22).
 
 **Metric.** Share of late-stage deals lost to no decision.
-**Common mistake.** Sending more case studies and options, which deepens the paralysis.
+**Common mistake.** Sending more case studies and options.
 
 ## 4. My pipeline is empty or lumpy
 
@@ -73,12 +75,12 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 1. Calculate how many new conversations you need per month from your close rate (Law of Replacement, S10).
 2. Build a strategic target list from your best customers (S18, S09).
 3. Write a sales story about buyer issues and outcomes (S18).
-4. Block daily prospecting time and protect it (S10, S18).
+4. Block daily prospecting time, first thing, and protect it; 15-minute bursts count (S10, S18).
 5. Run balanced, multi-channel outreach: calls, email, social, referrals (S10).
-6. Prepare turnarounds for common brush-offs (S22).
+6. Prepare turnarounds for common brush-offs (S22, S10).
 7. Ask every happy customer for a referral (seeds, S09; S14).
 
-**Metric.** New qualified meetings booked per week.
+**Metric.** New qualified conversations per week, not dials (S09).
 **Common mistake.** Prospecting only when revenue drops, so the gap repeats every quarter.
 
 ## 5. I hate selling and avoid it
@@ -89,12 +91,13 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 - How many asks did you make last week?
 
 **Plan**
-1. Reframe selling as helping people see their problem clearly (S13, S25).
+1. Reframe selling as helping people find and see their problem clearly (S13, S25).
 2. Separate rejection from identity; count asks, not wins (S12, S22).
-3. Use a sales story so you talk about their issues, not yourself (S18).
-4. Lead with discovery questions, which feels less pushy (S01, S11).
-5. Use low-pressure phrasing that allows a no (S19).
-6. Set a small daily habit of asks and keep it (S17, S12). For habit design, hand off to Productivity.
+3. Before calls, ask yourself "can I do this?" and answer with reasons (S13).
+4. Use a sales story so you talk about their issues, not yourself (S18).
+5. Lead with discovery questions, which feels less pushy (S01, S11, S12).
+6. Use low-pressure phrasing that allows a no (S19).
+7. Set a small daily habit of asks and keep it (S17, S12). For habit design, hand off to Productivity.
 
 **Metric.** Number of clear asks per week.
 **Common mistake.** Hiring a salesperson to avoid learning the sale before it is repeatable.
@@ -109,11 +112,11 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 
 **Plan**
 1. Document your own sales process and buyer journey first (S08).
-2. Define the traits that fit your sale, including coachability and curiosity (S08, S20).
-3. Test coachability with a role play and feedback in the interview (S08).
-4. Decide if the role prospects, closes, or both (S09); a first hire usually does both.
+2. Define the traits that fit your sale, including coachability and curiosity (S08).
+3. Test coachability with a role play and feedback in the interview; do not hire on interview polish (S08).
+4. Decide if the role hunts or tends accounts; for hunting, require a record of winning new deals (S18, S09).
 5. Align pay with customer success (S08).
-6. Set ramp milestones and coach weekly on one skill (S08, S20).
+6. Set ramp milestones and coach weekly on one skill (S08, S12).
 7. For hiring process and team design beyond sales, hand off to Growth.
 
 **Metric.** Time to first deal and month-three conversion versus yours.
@@ -123,7 +126,7 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 
 **Ask first**
 - What is your walk-away point and best alternative?
-- Who on their side has authority to agree?
+- Who on their side has authority to agree, and who might feel threatened by the deal?
 - What do they value besides price?
 - What emotions or pressures is the other side under?
 
@@ -133,8 +136,8 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 3. Ask calibrated questions instead of saying no (S03).
 4. Trade, do not concede: every give gets a get (synthesis of S03, S07).
 5. For price, plan concessions in shrinking steps (Ackerman, S03).
-6. Confirm decision process and paper process (S20).
-7. Hold the frame: calm, unhurried, willing to walk (S06, S10).
+6. Map the power around the deal; frame asks around their self-interest and say less than you know (S26).
+7. Pause before reacting to a hard move; stay calm and willing to walk (S27, S06, S10).
 
 **Metric.** Final margin versus target, and time to signature.
 **Common mistake.** Splitting the difference to end discomfort.
@@ -147,12 +150,12 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 - Was the proposal a menu or a recommendation?
 
 **Plan**
-1. Stop sending proposals without a scheduled review meeting (S01, S20).
+1. Stop sending proposals without a scheduled review meeting on both calendars (S01, S22).
 2. Walk through proposals live with the buyer (S18).
-3. Confirm the economic buyer and paper process earlier (S20).
+3. Confirm early who signs and what they care about (synthesis of S01, S26).
 4. Send a short no-oriented follow-up that invites a reply (S03).
-5. Restate the gap and its cost in their words (S11).
-6. Recommend one option and de-risk it (S24).
+5. Restate the gap and its impact in their words (S11).
+6. Recommend one option and lower the step to start (S15, S19).
 
 **Metric.** Share of proposals with a review meeting booked.
 **Common mistake.** Chasing with "just checking in" messages that add no value.
@@ -167,9 +170,9 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 
 **Plan**
 1. Build a stage-by-stage dashboard per rep (S08).
-2. Compare each rep to the team and find their one weakest stage (S08).
-3. Coach one skill for a month, then remeasure (S08, S20).
-4. Run deal reviews with MEDDPICC (S20).
+2. Compare each rep to the team and find their one weakest stage, starting high in the funnel (S08).
+3. Coach one skill for a month, then remeasure (S08, S12).
+4. Run deal reviews with the gap test: each deal's reason to buy starts with what the buyer is struggling with, quantified (S11).
 5. Share winning stories and talk tracks across the team (S18, S02).
 6. Check that hiring traits match top performers (S08).
 
@@ -203,11 +206,12 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 
 **Plan**
 1. Define target and reason for the call (S18, S09).
-2. Open with a short sales story about issues their peers face (S18).
-3. Ask for a small, clear next step, usually a meeting (S10).
-4. Prepare turnarounds for the three most common brush-offs (S22).
-5. Use low-pressure language that allows a no (S19).
-6. Block a daily call time and track dials, connects, meetings (S10).
+2. Prepare the words in advance; in the first seconds come across as sharp, enthusiastic, and expert (S19, S15).
+3. Open with a short sales story about issues their peers face (S18).
+4. Ask for a small, clear next step, usually a meeting; their time is the hardest ask (S10).
+5. Prepare turnarounds for the three most common brush-offs (S22, S10).
+6. Use low-pressure language that allows a no (S19).
+7. Block a daily call time and track conversations and meetings (S10, S09).
 
 **Metric.** Meetings booked per hour of calling.
 **Common mistake.** Pitching features in the first thirty seconds.
@@ -216,16 +220,15 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 
 **Ask first**
 - What defines each pipeline stage, by buyer action?
-- How many forecast deals have a confirmed economic buyer and paper process?
+- How many forecast deals have a dated next step with the person who signs?
 - How old are deals in each stage?
 
 **Plan**
-1. Define stages by buyer commitments, not rep activity (S01, S20).
-2. Qualify every forecast deal on MEDDPICC (S20).
-3. Test champions (S20).
-4. Remove stale deals beyond your normal cycle length (S20).
-5. Forecast only deals with a dated next step (S01).
-6. Review weekly with evidence, not opinions (S20).
+1. Define stages by buyer commitments, not rep activity or CRM labels (S01, S22).
+2. Forecast only deals with a dated next step on both calendars (S01, S22).
+3. Test each forecast deal with the gap: is the impact stated by the buyer and large enough to act on? (S11).
+4. Check each deal for wishful thinking: write the worst plausible case next to the best (S27).
+5. Remove deals that fail your ICP must-haves or sit beyond your normal cycle (S09).
 
 **Metric.** Forecast versus actual, by month.
 **Common mistake.** Counting deals the buyer has not committed to.
@@ -241,9 +244,10 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 1. Quantify outcomes clients receive (S11, S07).
 2. Improve the Value Equation levers before announcing the price (S07).
 3. Add or stack value that costs you little (S07).
-4. Test the new price on new prospects first (synthesis of S07, S08).
-5. For existing clients, explain the change with empathy and give notice (S03, S25).
-6. Track close rate; a very high close rate often means price is too low (S07).
+4. Keep a planned downsell for buyers who balk (S28).
+5. Test the new price on new prospects first (synthesis of S07, S08).
+6. For existing clients, explain the change with empathy and give notice (S03, S25).
+7. Track close rate; a very high close rate often means price is too low (S07).
 
 **Metric.** Revenue per customer and close rate after the change.
 **Common mistake.** Raising price without changing the offer or the story.
@@ -257,12 +261,13 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 
 **Plan**
 1. Check delivery against promise; this may be a Growth or operations issue to hand off.
-2. Build trust after the sale through reliability (Trust Equation, S25).
-3. Assign account management separately from new business if team size allows (S09).
-4. Pay reps on retention (S08).
-5. Ask for referrals once results are visible (S14, S09).
+2. Keep serving after the sale, on a schedule (S23), and build trust through reliability (S25).
+3. Design the next offers: an upsell at the point of sale and a continuity offer for ongoing value (Money Model, S28).
+4. Assign account management separately from new business if team size allows (S09, S18).
+5. Pay reps on retention (S08).
+6. Ask for referrals once results are visible (S14, S09).
 
-**Metric.** Repeat purchase rate and referrals per client.
+**Metric.** Repeat purchase rate and revenue per customer in the first 90 days.
 **Common mistake.** Treating retention as a marketing problem when the promise was not delivered.
 
 ## 15. A big buyer wants a long free pilot
@@ -273,11 +278,27 @@ Built from the 25 Sales books (S01 to S25) and the frameworks in frameworks.md: 
 - What would make them sign without it?
 
 **Plan**
-1. Agree on success metrics before starting (S20).
+1. Agree on success metrics tied to the impact they stated (S11).
 2. Make the pilot short, scoped, and paid if possible (S07, S03).
-3. Tie the pilot to a dated decision with the economic buyer present (S20, S01).
-4. Use the pilot as risk reversal, not an open-ended trial (S24).
+3. Tie the pilot to a dated decision with the person who signs present (S01, S22).
+4. Use the pilot to lower the action threshold, not as an open-ended trial (S15).
 5. Trade: a free pilot in exchange for a signed conditional agreement (S03).
 
 **Metric.** Pilot-to-contract conversion.
 **Common mistake.** Starting a pilot with no defined success or decision date.
+
+## 16. Office politics are blocking a deal
+
+**Ask first**
+- Who gains and who loses status if this deal goes through?
+- Does your contact look good or exposed by championing you?
+
+**Plan**
+1. Map each stakeholder's interest and fear (Reading Power in the Account, S26).
+2. Make your contact the hero; never go over their head in a way that outshines them (S26).
+3. Read the people, not just their words: watch for patterns and nonverbal cues (S27).
+4. Frame the case around each person's self-interest and their good opinion of themselves (S26, S27, S19).
+5. Stay candid and reliable; power reading is defense, not deception (S25).
+
+**Metric.** Number of stakeholders who have met you and stated a gain from the deal.
+**Common mistake.** Arguing your case harder to the person who feels threatened by it.

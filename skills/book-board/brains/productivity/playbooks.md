@@ -1,6 +1,8 @@
 # Playbooks: Productivity department
 
-Built from the 25 Productivity books (P01 to P25) and the frameworks in frameworks.md. Each playbook is a situation owners bring, with questions to ask first, a plan, a metric, and the common mistake.
+Built from the 25 Productivity books (ids P01 to P30, with gaps) and the frameworks in frameworks.md. Each playbook is a situation owners bring, with questions to ask first, a plan, a metric, and the common mistake.
+
+Quote policy: verbatim quotes appear only from the author talks and public-domain texts listed in talks.md, always with a T id. Copyrighted book text is never quoted. Everything else is paraphrase cited by book id.
 
 ## 1. I can't find time to work on the business
 
@@ -14,7 +16,7 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 1. Log time for one week in 30-minute slots (Know Thy Time, P13; audit, P14).
 2. Tag each block on the DRIP Matrix (P14) and mark what could be dropped (P13, P05).
 3. Choose one "work on" project with the Focusing Question (P06).
-4. Block two to three protected sessions a week in peak hours for it (Time Blocking, P02, P06, P18; Biological Prime Time, P25).
+4. Block two to three protected sessions a week in peak hours for it (Time Blocking, P02, P06, P18; Energy and Renewal, P06, P07).
 5. Batch email and admin into two slots a day (P08, P02).
 6. Hand off or drop the top two draining, low-value tasks (Buyback Rate, P14; Explore, Eliminate, Execute, P05).
 7. Review every Friday (Weekly Review, P01, P18).
@@ -34,7 +36,7 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 2. Clarify each item: actionable or not, and the next action (P01).
 3. Do every item under two minutes immediately (P01).
 4. Sort into projects, next actions, waiting-for, calendar, someday (P01; PARA for reference material, P17).
-5. Cap active projects and park the rest visibly (Fixed-Volume Lists, P12; pull-based work, P15).
+5. Cap active projects and park the rest visibly (Fixed-Volume Lists, P12; pull-based work, P15). Ask of each item whether it is necessary at all (P28).
 6. Tell people what is parked and when you will return to it (posteriorities, P13).
 7. Start a weekly review at a fixed time (P01).
 
@@ -53,7 +55,7 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 1. List every recurring decision and task that waits on you (P13, P14).
 2. Turn repeat decisions into rules or policies (Effective Decisions: generic problems get policies, P13; rules for helpers, P08).
 3. Record each repetitive task once and write a playbook from it (Camcorder Method, P14).
-4. Delegate results with the five stewardship parts (P04) or an Impact Filter (P24).
+4. Delegate results with the five stewardship parts (P04) or an Impact Filter (P24), then stop rescuing: let staff own the outcome (Let Them, P27).
 5. Set a spending or decision limit staff can act within without asking (P08).
 6. Hold a short weekly check-in instead of ad hoc approvals (P18 WAM style).
 7. Run a test: one week away from day-to-day approvals (DEAL Liberation, P08).
@@ -90,16 +92,16 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 - Who sees your progress besides you?
 
 **Plan**
-1. Cut to one to three goals for the next 12 weeks (12 Week Year, P18; Focusing Question, P06).
-2. Write weekly tactics for each goal (P18).
+1. Write one definite target and what you will give for it (Definite Major Purpose, P30; Focusing Question, P06).
+2. For a first 12 Week Year, take one goal and no more than three weekly tactics (P18).
 3. Block performance time for them (P18, P06).
-4. Score execution every week, aiming for about 85 percent (Weekly Scorecard, P18).
+4. Score execution every week, aiming for 80 percent or more (Weekly Scorecard, P18).
 5. Track lead indicators, not only results (P18, P22).
-6. Join or form a weekly accountability check-in (WAM, P18).
-7. Expect the dip after week three and plan for it (P18; Plateau of Latent Potential, P03).
+6. Join or form a weekly accountability group (WAM, P18; mastermind, P30).
+7. Expect the dip around weeks four to six, and use week 13 to review and reload (P18; Plateau of Latent Potential, P03).
 
 **Metric:** weekly execution score (share of planned tactics completed).
-**Common mistake:** setting ten goals. Execution collapses when focus spreads.
+**Common mistake:** setting ten goals. Execution collapses when focus spreads. Moran: "we don't control the outcomes. The goals are the outcomes. What we control are the actions." (T065)
 
 ## 6. I'm distracted all day
 
@@ -110,11 +112,11 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 
 **Plan**
 1. Define traction for tomorrow by timeboxing the calendar (Indistractable, P10).
-2. Turn off all non-essential notifications and move apps off the home screen (Laser, P09; external triggers, P10).
-3. When the urge hits, name the feeling and wait ten minutes (internal triggers, P10).
+2. When the urge hits, name the feeling and wait ten minutes (internal triggers and the 10-minute rule, P10). Eyal puts about 90 percent of distraction down to internal triggers.
+3. Turn off non-essential notifications and move apps off the home screen (external triggers, P10).
 4. Set email and message check times (Batching, P08, P02).
-5. Add one effort pact, such as a site blocker during focus blocks (P10; environment design, P03).
-6. Single-task each block with only one window open (P02, P16).
+5. Add one effort pact, such as a site blocker during focus blocks, last (P10; environment design, P03).
+6. Single-task each block with only one window open (P02).
 
 **Metric:** number of focus blocks per week completed without switching.
 **Common mistake:** blaming the phone and ignoring the uncomfortable task underneath.
@@ -128,11 +130,12 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 
 **Plan**
 1. Name the consequence of not doing it (P07, P04).
-2. Score the procrastination triggers and reverse each one (P25).
+2. Name the cause: a feeling to escape, a missing next step, or a task that is not yours (Procrastination Diagnosis, P10, P24).
 3. Define the next physical action (P01).
-4. Shrink the first session to 15 to 30 minutes (Mini Habits, P19; two-minute rule, P03).
-5. Do it first thing tomorrow (Eat That Frog, P07; Highlight, P09).
-6. Use fear-setting if the task is a scary decision (P08).
+4. Shrink the first session to 10 to 30 minutes (two-minute rule, P03; 10-minute rule, P10).
+5. Do it first thing tomorrow (Eat That Frog, P07).
+6. If it keeps slipping and is not core, hand it off (P24).
+7. Use fear-setting if the task is a scary decision (P08).
 
 **Metric:** days the task has been open; target it moving within 48 hours.
 **Common mistake:** waiting to feel ready. Start small and let action create motivation.
@@ -146,16 +149,17 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 - What work could stop with no real harm?
 
 **Plan**
-1. Audit hours and energy for one week (P13, P25).
+1. Audit hours and energy for one week (P13, P14).
 2. Set a hard stop time and a shutdown ritual (P02; Parkinson's law, P08).
 3. Decide what to neglect this quarter and tell people (P12, P13, P05).
 4. Cap active projects (P15, P12).
-5. Protect sleep and exercise as non-negotiable blocks (P05, P09, P06).
+5. Protect sleep and exercise as non-negotiable blocks (P05, P06, P04).
 6. Hand off the most draining low-value tasks (P14).
 7. Plan a lighter season or breakaway time (P15, P18).
+8. Name what the work is for, and cut what does not serve it (Meaning Check, P29).
 
 **Metric:** weekly hours worked, with output (revenue or key deliverables) held steady.
-**Common mistake:** treating burnout as a time-management problem only. Often the fix is fewer commitments, not faster work (P12, P15).
+**Common mistake:** treating burnout as a time-management problem only, or answering it with more grit (P26). Often the fix is fewer commitments, not faster work (P12, P15).
 **Note:** if there are signs of depression or health issues, recommend professional help; this department does not replace it.
 
 ## 9. My team has too many projects and nothing finishes
@@ -185,15 +189,15 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 - What is the smallest version you could do on your worst day?
 
 **Plan**
-1. Shrink the routine to a mini version (P19, P03).
+1. Shrink the routine to a two-minute version you can do on a bad day (Two-Minute Rule, P03).
 2. Anchor it to an existing habit with a time and place (habit stacking, P03).
 3. Remove friction and add cues in the environment (P03, P10).
 4. Pair it with a reward or something enjoyable (P03, P11).
 5. Track it daily and never miss twice (P03, P22).
-6. Grow it only once it is automatic (P19).
+6. Grow it only once it is automatic (P03): "a habit must be established before it can be improved" (T047).
 
 **Metric:** days per week the routine is done.
-**Common mistake:** restarting at full size after a lapse instead of at the mini version.
+**Common mistake:** restarting at full size after a lapse instead of at the two-minute version.
 
 ## 11. Meetings and messages eat the week
 
@@ -243,9 +247,9 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 **Plan**
 1. Set one to three 12-week goals (P18, P06).
 2. Each week, run a review: clear inboxes, update lists, score last week (P01, P18).
-3. Choose the week's top priorities by role or goal (P04; Rule of 3, P25).
+3. Choose the week's top priorities by role or goal (P04).
 4. Block priorities first, then buffer time for admin (P04, P18, P06).
-5. Each day, pick a Highlight or frog and do it first (P09, P07).
+5. Each day, pick the frog and do it first (P07, P06).
 6. Close each day with a short shutdown (P02).
 
 **Metric:** weekly execution score and planning done on time each week.
@@ -259,10 +263,10 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 - Where do your best ideas usually come from?
 
 **Plan**
-1. Schedule one weekly thinking block away from the desk (Scatterfocus, P16; bimodal depth, P02).
+1. Schedule one weekly thinking block away from the desk (Productive Meditation, P02; inner retreat, P28).
 2. Keep a short list of open strategic questions (12 favorite problems idea, P17).
 3. Capture ideas as they come into one place (P01, P17).
-4. Use walks and simple tasks for deliberate mind wandering (P16).
+4. Use walks to hold one problem in mind and return to it when attention drifts (P02).
 5. Turn insights into one next action each (P01).
 6. Hand the strategy question itself to Growth if it is about market or model.
 
@@ -282,7 +286,43 @@ Built from the 25 Productivity books (P01 to P25) and the frameworks in framewor
 3. Record yourself doing it once and share it (Camcorder Method, P14).
 4. Match the task to the person's strengths (P13).
 5. Set a midpoint review, not constant check-ins (P04).
-6. Fix the process, not the person, on the first miss (P14, P11 on routines).
+6. Fix the process, not the person, on the first miss, and let them own the redo (P14; P27).
 
 **Metric:** share of delegated tasks accepted on first review.
 **Common mistake:** taking the work back after one bad result, which teaches the team that the owner will always rescue it.
+
+## 16. I know what to do but keep quitting when it gets hard
+
+**Ask first**
+- What exactly do you quit, and at what point?
+- Is the plan sound, or are you pushing on the wrong thing?
+- What is the work for, and who does it serve?
+- What hard thing have you already pushed through?
+
+**Plan**
+1. Check the plan first; grit on a wrong plan wastes effort (hand off to Growth if strategy is the issue).
+2. Write the why in one line (Meaning Check, P29).
+3. Put blunt truths and today's commitment on the mirror (Accountability Mirror, P26).
+4. List past wins and hardships in a Cookie Jar and read it when you want to stop (P26).
+5. Keep the start small so a bad day still counts (P03).
+6. Share the weekly score with a peer (WAM, P18; mastermind, P30).
+
+**Metric:** days per week the hard task is done.
+**Common mistake:** a permanent all-out mode. Set a defined push (for example, 30 days), then review; watch sleep and health (P15, P12).
+
+## 17. Other people keep derailing my week
+
+**Ask first**
+- Whose behavior are you trying to change, and how much time goes to it?
+- What part of it do you control?
+- Is anything dangerous, about your pay or rights, or a repeated boundary breach?
+
+**Plan**
+1. List the people and situations you keep trying to control (Let Them, P27).
+2. Mark what is in your power and what is not (Circle of Influence, P04; P28).
+3. For what is not, let them; stop chasing, rewriting and rescuing.
+4. For what is, act once: a clear standard, a boundary, a consequence or a decision (P27, P04).
+5. Each morning, expect some difficult people and decide your response in advance (P28).
+
+**Metric:** hours per week spent on other people's choices.
+**Common mistake:** confusing "let them" with silence. Standards, feedback and boundaries still apply.

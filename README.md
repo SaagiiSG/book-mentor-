@@ -4,10 +4,10 @@ A business advisory board for Claude Code, built from 100 books in four departme
 
 | Department | Books | Owns the question |
 |---|---|---|
-| Productivity | 25 (Getting Things Done, Deep Work, Atomic Habits, Essentialism, The ONE Thing, ...) | Where should your time and attention go, and what system makes it happen every week? |
-| Sales | 25 (SPIN Selling, The Challenger Sale, Never Split the Difference, Gap Selling, ...) | Will this close, at what price, and what exactly do you say and do to get the yes? |
-| Business Growth | 25 (Good to Great, The E-Myth Revisited, Traction, The Lean Startup, High Output Management, ...) | What is the constraint on growth right now, and which move removes it without breaking the business? |
-| Marketing | 25 ($100M Leads, Building a StoryBrand, Positioning, Breakthrough Advertising, Obviously Awesome, ...) | Who exactly is this for, what message makes them care, and which channel brings them in at a profit? |
+| Productivity | 25 (Atomic Habits, Deep Work, Can't Hurt Me, Meditations, Think and Grow Rich, The Let Them Theory, ...) | Where should your time and attention go, and what system makes it happen every week? |
+| Sales | 25 (Influence, The 48 Laws of Power, Never Split the Difference, How to Win Friends, $100M Offers, SPIN Selling, ...) | Will this close, at what price, and what exactly do you say and do to get the yes? |
+| Business Growth | 25 (The Art of War, Rich Dad Poor Dad, The Psychology of Money, Good to Great, The E-Myth, Zero to One, ...) | What is the constraint on growth right now, and which move removes it without breaking the business? |
+| Marketing | 25 (Start With Why, $100M Leads, Building a StoryBrand, Crushing It!, Hook Point, Positioning, ...) | Who exactly is this for, what message makes them care, and which channel brings them in at a profit? |
 
 The full list with ids is in [BOOKS.md](BOOKS.md).
 
@@ -35,8 +35,9 @@ Each department brain (`skills/book-board/brains/<dept>/`) holds:
 - `frameworks.md`: the frameworks across the 25 books, with steps and scoring guidance
 - `principles.md`: decision rules, and where the books disagree
 - `playbooks.md`: step-by-step plans for the situations owners bring most often
+- `talks.md`: the author talks and interviews used to ground the brain (T ids)
 
-The brains summarize and paraphrase the books' ideas with book ids for citation. They contain no book text.
+The brains summarize and paraphrase the books' ideas with book ids for citation, and contain no copyrighted book text. Version 1.1 grounds them in the authors' own words: for 84 of the 100 books, verbatim quotes taken from the author's talks and interviews on YouTube, each with a T id and checked word for word against the transcript. The Art of War and Meditations are public domain, so they are quoted from the text itself.
 
 ## Install
 
@@ -80,8 +81,13 @@ Copy `skills/book-board` into that project's `.claude/skills/book-board`.
 Every answer starts with a routing line, for example:
 `Routing: Sales 3, Marketing 2, Growth 1, Productivity 0. Lead plus council: Sales leads, Marketing advises.`
 
+## Changelog
+
+- 1.1: swapped 17 books for popular classics (The Art of War, The 48 Laws of Power, Rich Dad Poor Dad, The Psychology of Money, Can't Hurt Me, Meditations, Start With Why, and more); grounded 84 books in verbatim author quotes from talks (the other 16 had no usable author recording and stay paraphrase).
+- 1.0: four departments, 100 books, router and council.
+
 ## Notes
 
-- The department heads are synthesized advisors built from the books' ideas. They are not the authors and do not quote them.
+- The department heads are synthesized advisors built from the books' ideas. They are not the authors. They quote authors only from talks (T ids in each brain's talks.md), never from book text.
 - Citations like (Gap Selling, S11) point to [BOOKS.md](BOOKS.md) so you can read the source.
 - Add a department by creating `brains/<new>/` with the same six files and a row in `router.md`.

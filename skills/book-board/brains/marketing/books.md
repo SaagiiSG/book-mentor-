@@ -1,18 +1,23 @@
 # Books: Marketing department
 
-Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, explained in our own words.
+Built from the 25 Marketing books in BOOKS.md (M01 to M19, M21, M24, M26 to M29), one entry per book, explained in our own words.
+
+Quote policy: verbatim quotes appear ONLY from the author talks and public-domain texts listed in talks.md, always with a T id. Text of copyrighted books is never quoted. Everything else is paraphrase cited by book id.
 
 ## [M01] $100M Leads, Alex Hormozi (2023)
 
 **Core idea.** Getting leads is a numbers game you can control. There are four ways to let people know about you, and most businesses underuse all of them. Do more of what works before you try something new.
 
 **Key frameworks and ideas**
-- **The Core Four**: warm outreach (people who know you), posting free content, cold outreach (strangers, one to one), and paid ads (strangers, one to many).
+- **The Core Four**: warm outreach (people who know you, one to one), posting free content (people who know you, one to many), cold outreach (strangers, one to one), and paid ads (strangers, one to many). (T025)
 - **Lead Getters**: four groups who can bring leads for you: customers (referrals), employees, agencies, and affiliates.
 - **Lead magnets**: a free, complete solution to a narrow problem that reveals a bigger problem your paid offer solves. Types include revealing a problem, a sample or trial, and one step of a multistep process.
 - **Rule of 100**: commit to a fixed daily volume of lead actions (for example 100 outreach touches or 100 minutes of content) until it works.
 - **More, Better, New**: first do more of the current activity, then do it better, and only then add a new channel.
-- **Engaged leads**: the real unit is a person who has shown interest, not a name on a list.
+- **Engaged leads**: the real unit is a person who has shown interest, not a name on a list. He defines a lead as someone with the problem and the money to solve it (T025).
+- **Hook, retain, reward**: his structure for every content post (T025).
+
+**In the author's words:** "All else being equal, when you double your leads, you double your business. Sometimes it really is that simple." (T025) "Having lots of leads makes it hard to be poor." (T025)
 
 **Use it when** a business has a decent offer but not enough people hear about it, or the owner is jumping between tactics.
 
@@ -25,10 +30,13 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 **Key frameworks and ideas**
 - **SB7 Framework**: a character wants something, has a problem, meets a guide, who gives them a plan, calls them to action, helping them avoid failure and reach success.
 - **Three levels of problem**: external (the tangible issue), internal (how it makes them feel), philosophical (why it is wrong that this happens). A villain personifies the problem.
-- **Guide traits**: empathy plus authority. Show you understand and that you can help.
+- **Guide traits**: empathy plus authority, which in his talk he calls competency. Show you understand ("we feel your pain") and that you have solved it before (T026).
 - **Direct and transitional calls to action**: a clear "buy or book" button plus a lower commitment option, such as a free guide.
-- **One-liner and BrandScript**: a short statement of problem, solution, and result, built from the SB7 parts.
+- **One-liner and BrandScript**: a short statement of the problem, the product that solves it, and the result, built from the SB7 parts. The one-liner is not the tagline (T026).
+- **Be clear, not clever**: the problem matters most, since people buy solutions to problems (T026).
 - **Grunt test** (detail as commonly taught): can a stranger tell within seconds what you offer, how it helps, and how to get it.
+
+**In the author's words:** "If you confuse, you will lose." (T026) "It is a massive mistake to position yourself as the hero in the story." (T026)
 
 **Use it when** the website or pitch is confusing, the owner talks about themselves, or a team cannot describe the business the same way twice.
 
@@ -36,15 +44,18 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 
 ## [M03] Contagious, Jonah Berger (2013)
 
-**Core idea.** Things catch on for reasons you can design for. Berger groups the drivers of word of mouth into six principles. Most word of mouth happens offline, not on social media.
+**Core idea.** Things catch on for reasons you can design for. Berger groups the drivers of word of mouth into six principles. Most word of mouth happens offline (he puts online at about 7 percent), so focus on the psychology, not the platform (T027).
 
 **Key frameworks and ideas**
 - **STEPPS**: Social currency, Triggers, Emotion, Public, Practical value, Stories.
 - **Social currency**: people share what makes them look good: inner remarkability, game mechanics, insider feelings.
 - **Triggers**: tie the product to cues people meet often in daily life, so it comes to mind.
-- **High-arousal emotion**: awe, excitement, amusement, anger, and anxiety drive sharing more than low-arousal feelings like contentment or sadness.
+- **High-arousal emotion**: awe, excitement, amusement, anger, and anxiety drive sharing more than low-arousal feelings like contentment or sadness. Not every emotion helps; some lower sharing (T027).
 - **Public** (make the private visible) and **Practical value** (useful info people pass on).
-- **Trojan horse stories**: wrap the brand inside a story people want to tell, so the brand travels with it.
+- **Trojan horse stories**: wrap the brand inside a story people want to tell, so the brand travels with it. The test is whether the story cannot be told without the brand (T027).
+- **Message over messenger**: he calls influencers overrated (T027).
+
+**In the author's words:** "ideas have a habitat a set of cues or triggers that make people think about them" (T027)
 
 **Use it when** you want referrals or shares, or a launch needs to be talked about without a big ad budget.
 
@@ -55,12 +66,15 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 **Core idea.** Ideas that are remembered and acted on share six traits. The biggest enemy is the curse of knowledge: once you know something, you cannot imagine not knowing it, so you explain it badly.
 
 **Key frameworks and ideas**
-- **SUCCESs**: Simple, Unexpected, Concrete, Credible, Emotional, Stories.
+- **SUCCESs**: Simple, Unexpected, Concrete, Credible, Emotional, Stories. Not all six are required: an idea with four traits beats one with two (T028).
+- **Simple is not short**: it means prioritizing the core. The test is whether people can decide and act on it in your absence (T028).
 - **Curse of Knowledge**: experts speak in abstractions their audience cannot picture.
 - **Commander's Intent / Finding the core**: strip the message to the one thing that must survive.
 - **Gap theory of curiosity**: open a knowledge gap, then fill it.
 - **Sinatra Test**: one example so strong it proves the whole claim.
 - **Human scale statistics**: translate numbers into things people can picture.
+
+**In the author's words:** "the test of a good simple idea is can you make decisions based on that idea can you take the right action" (T028)
 
 **Use it when** a message, pitch, or training is forgotten or misunderstood, or you need a claim to be believed.
 
@@ -77,6 +91,9 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Repositioning the competition**: change how people see the leader to open a space for you.
 - **The line extension trap**: putting a strong name on many products blurs what it stands for.
 - **The power of the name**: a name that hints at the benefit helps.
+- **The mind, not the ad**: positioning targets the prospect's mind, not the product or the ad (T029).
+
+**In the author's words:** "the essence of positioning is to find an open hole in the prospect's mind" (T029)
 
 **Use it when** you sound like every competitor, or you are choosing what to be known for.
 
@@ -92,7 +109,9 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Law of Focus**: own one word in the prospect's mind.
 - **Law of Duality**: mature markets tend to become two-horse races.
 - **Law of the Opposite**: a strong number two should position against the leader's strength.
-- **Law of Line Extension** and **Law of Sacrifice**: give up products, audiences, or constant change to stay focused.
+- **Law of Line Extension** and **Law of Sacrifice**: give up products, audiences, or constant change to stay focused. Ries admits the authors fell into that trap themselves (T029).
+
+**In the author's words:** "much like a sharp knife gets into the Mind easier than a Dull Knife" (T029) "there's no such thing as a free launch" (T029)
 
 **Use it when** deciding whether to broaden the product line, rename, or pick a narrow focus.
 
@@ -109,6 +128,9 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Status**: people act to protect or change their standing, and status is about affiliation as well as dominance.
 - **Positioning on two axes**: draw a chart of two attributes your audience cares about and find an empty corner.
 - **This is for, this is not for**: say plainly who you are not serving.
+- **Brand vs. direct marketing**: the split is measurability, not channel (T030).
+
+**In the author's words:** "The value of a brand is how much extra am I paying above the substitute? And if I'm not paying extra, you don't have a brand." (T030) "Culture is people like us do things like this." (T030)
 
 **Use it when** the business is trying to appeal to everyone, or competing on price because no one feels a reason to choose it.
 
@@ -124,6 +146,9 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Sneezers**: the people who spread ideas; target them first.
 - **Otaku**: a deep obsession some people have for a category; serve it.
 - **Milk the cow, then find the next one**: remarkability fades as others copy.
+- **Be the only one**: competing on price is a race to the bottom you may win or lose (T031).
+
+**In the author's words:** "remarkable means worth making a remark about it is not up to you it's up to us about whether we're gonna remark about what you made" (T031)
 
 **Use it when** ads are not working because the product is ordinary, or the owner wants to stand out without more budget.
 
@@ -135,11 +160,13 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 
 **Key frameworks and ideas**
 - **Hook Model**: Trigger, Action, Variable Reward, Investment.
-- **External and internal triggers**: start with prompts like emails, end with a feeling (boredom, uncertainty) that sends people to you.
-- **Action**: draws on Fogg's model that behavior needs motivation, ability, and a trigger; make the action easy.
+- **External and internal triggers**: start with prompts like emails, end with a feeling (boredom, uncertainty) that sends people to you. A habit needs the behavior at least weekly (T032).
+- **Action**: draws on Fogg's model that behavior needs motivation, ability, and a trigger; make the action easy. Ability is usually the better lever than motivation (T032).
 - **Variable rewards**: of the tribe, the hunt, and the self.
 - **Investment**: users put in data, content, or effort that makes the product better and loads the next trigger.
 - **Manipulation Matrix**: an ethics check on whether you would use it and whether it improves users' lives.
+
+**In the author's words:** "there's only one reason that people use any product and that one reason is to modulate our mood to make us feel something different" (T032)
 
 **Use it when** you sell an app, subscription, community, or anything that depends on repeat use.
 
@@ -234,6 +261,9 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Physical availability**: be easy to find and buy.
 - **Distinctive brand assets**: consistent colors, logos, and cues matter more than claimed differentiation.
 - **Duplication of purchase law**: brands share customers with other brands roughly in line with size.
+- **Polygamous loyalty**: buyers move between a small repertoire of brands; loyalty grows with size (T033).
+
+**In the author's words:** "the evidence is that people do not see Brands as people" (T033)
 
 **Use it when** a business with broad appeal is tempted to target too narrowly or overinvest in loyalty schemes.
 
@@ -254,7 +284,7 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 
 ## [M17] They Ask, You Answer, Marcus Sheridan (2017)
 
-**Core idea.** Answer every question buyers ask, honestly and in public, including the ones competitors avoid. That builds trust and brings search traffic.
+**Core idea.** Answer every question buyers ask, honestly and in public, including the ones competitors avoid. That builds trust and brings search traffic. Sheridan says it is a framework for trust and brand authority, not a blogging tactic (T034).
 
 **Key frameworks and ideas**
 - **The Big 5**: cost and price, problems, comparisons, reviews, and best-of lists.
@@ -262,6 +292,8 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Assignment selling**: send prospects specific content before sales calls so they arrive educated.
 - **Insider content**: salespeople and staff supply the questions and the voice.
 - **Video**: show the people and the process.
+
+**In the author's words:** "I brainstormed well over 100 questions and then one by one I would just knock them out" (T034)
 
 **Use it when** buyers research before they buy, which is most B2B and high ticket consumer services.
 
@@ -276,6 +308,9 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Competitive alternatives**: what customers would do if you did not exist, often a spreadsheet or doing nothing.
 - **A step-by-step process**: start with best customers, list alternatives, isolate attributes, map them to value, find who cares most, pick the market frame, then add trends.
 - **Market category strategies**: head to head, big fish in a small pond (win a subsegment), or create a new category.
+- **Positioning is an input**: it is not messaging, a tagline, or branding; those come after it (T035).
+
+**In the author's words:** "the component pieces of positioning are competitive alternatives. So, if you didn't exist, what would a customer do?" (T035) "the real question we have to answer is why pick us over the other guys." (T035)
 
 **Use it when** the product is good but sales cycles are long, prospects misunderstand it, or pricing feels too low.
 
@@ -289,24 +324,14 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **Nine square plan**: before (target market, message, media), during (capture leads, nurture leads, convert sales), after (deliver an experience, increase lifetime value, get referrals).
 - **Niche down**: pick a target market narrow enough to own.
 - **Lead capture and nurture**: most prospects are not ready now; collect them and follow up.
-- **PVP index** (detail as commonly summarized): rate segments by personal fulfilment, value to the market, and profitability.
+- **PVP index**: rate segments by personal fulfilment, value to the market, and profitability. Dib gives the same three tests in his talk: do you enjoy it, will the market pay a lot for it, and is it highly profitable (T036).
+- **Marketing is fuel**: find a problem and who you can solve it for before adding fuel; a powerful offer is a target market plus a message (T036).
+
+**In the author's words:** "what you want to be in is a niche that's an inch wide and a mile deep" (T036) "a powerful offer is the combination of a target market and a message" (T036)
 
 **Use it when** a small firm has random tactics and no system, or wants one view of its marketing.
 
 **Watch out.** Lightweight and rooted in direct response. Good as a map, thin on depth.
-
-## [M20] Traction, Gabriel Weinberg and Justin Mares (2015)
-
-**Core idea.** Most startups fail from lack of customers, not lack of product. Test channels systematically and focus on the one that works.
-
-**Key frameworks and ideas**
-- **Bullseye Framework**: brainstorm all channels, rank them into inner, middle, outer rings, test the top few cheaply, then focus on the winner.
-- **19 traction channels**: from SEO and PR to trade shows, sales, partnerships, and community building.
-- **The 50% rule**: spend half your time on traction alongside product.
-
-**Use it when** choosing channels or the current channel is plateauing.
-
-**Watch out.** Startup framing. Channel specifics have aged. Small firms may only afford one test at a time.
 
 ## [M21] Alchemy, Rory Sutherland (2019)
 
@@ -315,43 +340,16 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 **Key frameworks and ideas**
 - **Psycho-logic**: the hidden reasons behind behavior that look irrational but make sense.
 - **Signalling**: costly effort signals commitment and quality.
-- **Reframing**: change the context, not the product (making a wait feel shorter instead of making it shorter).
+- **Reframing**: change the context, not the product. His Uber map example did not shorten the wait; it removed the uncertainty, which is what bothers people (T037).
 - **Satisficing**: people often want a safe, good-enough choice, not the best one.
 - **The Doorman Fallacy**: cutting something because its value is not measured can destroy hidden value.
 - **The opposite of a good idea can be a good idea.**
 
+**In the author's words:** "value can be created in the mind every bit as much as it can be created in the factory" (T037) "what bothers us about waiting for a taxi isn't actually the duration it's the degree of uncertainty" (T037)
+
 **Use it when** a logic fix is expensive, or the team is stuck in spreadsheets and missing why customers act.
 
 **Watch out.** Anecdotal by design. Hard to test, and easy to use as a reason to skip testing.
-
-## [M22] Cashvertising, Drew Eric Whitman (2008)
-
-**Core idea.** Ads work when they tap deep human wants. A catalog of desire drivers and persuasion techniques for writing copy.
-
-**Key frameworks and ideas**
-- **Life-Force 8**: built-in drives such as survival, food and drink, freedom from fear and pain, sexual companionship, comfortable living, being superior, protecting loved ones, and social approval.
-- **Learned wants**: secondary desires, such as being informed or efficient, that are weaker than the core eight.
-- **Fear appeals**: work when paired with a clear, doable solution.
-- **Specificity and credibility devices**: testimonials, numbers, guarantees.
-
-**Use it when** copy is flat and feature-led, and you need to connect to what people actually want.
-
-**Watch out.** Some claims cite old or weak research. The tricks can feel manipulative if used without a real benefit.
-
-## [M23] Everybody Writes, Ann Handley (2014)
-
-**Core idea.** In a content-driven world everyone is a writer, and good writing is a learnable habit. Write for the reader, draft badly, then edit hard.
-
-**Key frameworks and ideas**
-- **Ugly first draft**: get it down, then fix it.
-- **Reader first**: empathy for what the reader needs drives every choice.
-- **Brevity and clarity**: cut what does not help the reader.
-- **Credibility**: check facts and cite sources like a journalist.
-- **Voice**: a consistent, human tone makes a brand recognizable.
-
-**Use it when** content is bland, jargon-heavy, or slow to produce.
-
-**Watch out.** Craft advice, not strategy. It will not tell you what to write about or who for.
 
 ## [M24] Hacking Growth, Sean Ellis and Morgan Brown (2017)
 
@@ -362,23 +360,85 @@ Built from the 25 Marketing books (M01 to M25) in BOOKS.md, one entry per book, 
 - **North Star Metric**: the one measure that best captures value delivered to customers.
 - **Growth hacking process**: analyze, ideate, prioritize, test, then repeat at high tempo.
 - **ICE scoring**: rank ideas by impact, confidence, and ease.
-- **Stages**: acquisition, activation (the aha moment), retention, monetization, plus virality.
+- **Stages**: acquisition, activation (the aha moment), retention, monetization, plus virality. In his talk Ellis also orders growth as product market fit first, then stacking the odds, then scaling (T038).
+- **Tempo**: set a weekly test number; speed beats polish per test (T038).
+
+**In the author's words:** "if 40% or more of the people who you ask that question to say they'd be very disappointed without the product then you have a good fighting chance of being able to grow that business" (T038)
 
 **Use it when** a business has some traction and data, and wants a steady experiment habit.
 
 **Watch out.** Assumes a team and enough traffic for tests to be meaningful. Small firms need fewer, bigger tests.
 
-## [M25] Content Inc., Joe Pulizzi (2015)
+## [M26] Start With Why, Simon Sinek (2009)
 
-**Core idea.** Build an audience first with consistent, valuable content in a narrow niche, then build products for that audience.
+**Core idea.** People and companies that inspire lead with why they exist, then how they do it, then what they sell. Buyers and staff are drawn to those who believe what they believe, and that bond lasts longer than one won with price or promotions.
 
 **Key frameworks and ideas**
-- **Content Inc. model**: sweet spot, content tilt, building the base, harvesting audience, diversification, monetization.
-- **Sweet spot**: where your knowledge or skill overlaps a passion and an audience need.
-- **Content tilt**: a different angle so you are not one more voice on the same topic.
-- **Build the base on one platform**, consistently, before spreading.
-- **Owned audience**: subscribers you can reach directly beat followers on rented platforms.
+- **The Golden Circle**: why (the purpose or belief) at the center, then how (the way you do it), then what (the products). Most firms talk from the outside in; inspiring ones talk from the inside out.
+- **The biology of decisions**: he maps the circle to the brain; feelings drive decisions but have no words, so gut choices are hard to explain.
+- **Manipulation vs. inspiration**: price cuts, promotions, and fear win sales, not loyalty.
+- **The celery test**: check every choice against the why and drop the ones that do not prove it.
+- **The law of diffusion**: aim first at the innovators and early adopters who share your belief, not the mass market.
+- **A why is found, not invented**: it is positive, it is about building something, and he says it is formed by the late teens (T039).
+- **The how is not the why**: your differentiating value proposition belongs to the how. Mixing the two up is common (T039).
 
-**Use it when** the owner can commit to a long horizon and wants a durable lead source.
+**In the author's words:** "every single one of us knows what we do. Some of us know how we do it, but very very few of us can clearly articulate why we do what we do." (T039) "a why is always positive. It's always striving for something." (T039)
 
-**Watch out.** Slow, often a year or more before payoff. The success stories are survivors.
+**Use it when** the brand feels interchangeable or the team cannot say why the business exists.
+
+**Watch out.** The evidence is famous cases told after the fact, and the brain story is simplified. Sharp's data says most buyers do not think much about brands at all [M15]. A why does not replace a clear offer and a specific benefit.
+
+## [M27] Show Your Work!, Austin Kleon (2014)
+
+**Core idea.** You do not need to self-promote to be found. Share your process, what you are learning, and the work you admire, a little every day, and an audience forms around your generosity.
+
+**Key frameworks and ideas**
+- **Be an amateur**: you do not have to be a genius; join a scene of people learning together and share as you go.
+- **Process, not product**: show the work in progress, not only the finished result.
+- **Share something small every day**: one small, useful piece daily beats waiting for a big launch.
+- **Open your cabinet of curiosities**: share your influences and the work of others.
+- **Teach what you know**: giving away your methods builds trust rather than losing business.
+- **Do not become human spam**: give attention before you ask for it; sharing is a relationship where the audience talks back (T040).
+- **Learn to take a punch, sell out, stick around**: handle criticism, ask for money without shame, and keep going for years.
+
+**In the author's words:** "sharing really means opening up and kind of having a relationship with your audience it means letting your audience kind of talk back to you and alongside you" (T040) "we kind of know that creativity and creative work is a process but a lot of times what we show people is not that actual process we just show the products of it" (T040)
+
+**Use it when** an owner has real expertise but no audience, and dislikes self-promotion.
+
+**Watch out.** Written for creative workers. Light on targeting, conversion, and measurement, and slow. The source talk (2013) predates the book.
+
+## [M28] Crushing It!, Gary Vaynerchuk (2018)
+
+**Core idea.** A follow-up to Crush It!: anyone can build a personal brand that becomes a business by putting out a lot of content where attention is now, playing to their strengths, and being patient. Built around case stories of people who did it.
+
+**Key frameworks and ideas**
+- **Personal brand as the asset**: the owner's name and voice become the business's main lead source.
+- **The essentials** (detail uncertain): intent, authenticity, passion, patience, speed, work, and attention.
+- **Platform guides**: advice per platform of the time, from video and podcasts to voice.
+- **Volume and patience**: post a lot, every day, and expect it to take years.
+- **Document, don't create** (detail uncertain): share what you are doing rather than polishing perfect pieces.
+- **Self-awareness**: build on strengths and stop spending effort on weaknesses. His talks stress this, and say hard work is the cost of entry (T041).
+
+**In the author's words:** "i implore you to triple down on your strengths and punt your weaknesses" (T041). Note: T041 is a general keynote, not about the book.
+
+**Use it when** the founder is the face of the business, the buyer trusts people more than companies, and attention is needed without an ad budget.
+
+**Watch out.** Survivor stories, and the platform chapters date fast. Volume demands can burn out a small team, and a personal brand is hard to hand over. Overlaps with [M16].
+
+## [M29] Hook Point, Brendan Kane (2020)
+
+**Core idea.** In a feed where people decide in about three seconds, the hook decides whether anything else gets seen. Engineer hooks from patterns that already work, test them, and build content from the winners.
+
+**Key frameworks and ideas**
+- **The three-second world**: the hook must stop the scroll in the first one to three seconds, because algorithms pick from a huge pool of content every time (T042).
+- **Two pulls**: curiosity (a gap the viewer wants closed) and the promise of value (a clear payoff) (T042).
+- **Five-step hook method** (as taught in his 2025 talk): study what already works in and outside your industry; break down its tone, pacing, and questions; brainstorm your own hooks; generate at least 20 ideas and pick one; test on retention in the first three seconds (T042).
+- **One hook, one piece**: do not mix several big ideas in one piece (T042).
+- **The generalist principle**: most people niche too hard. Keep the expertise but frame it under a broad theme strangers care about (T042).
+- **Promise, progress, pay off**: keep promising and scatter payoffs through the piece; plan the emotional arc from start to end (T042).
+
+**In the author's words:** "make niche content universal. You don't lose your expertise or niche appeal. You layer it underneath a broader theme." (T042) "the primary metric here is the audience retention in the first 3 seconds." (T042)
+
+**Use it when** content or video ads get no views, or openings are weak.
+
+**Watch out.** It optimizes for attention, and viewers are not always buyers. The five steps and the generalist principle come from his 2025 talk and may go beyond the 2020 book. Hooks can tip into clickbait.
