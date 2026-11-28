@@ -45,9 +45,24 @@ The brains summarize and paraphrase the books' ideas with book ids for citation 
 
 ## Safety
 
-The Psychology and Mental Health department is educational self-help built from books. It is not therapy, diagnosis or medical advice. It never advises on medication, and when someone shows signs of crisis it points them to emergency services, a crisis line (988 in the US and Canada, 116 123 in the UK and Ireland, or findahelpline.com) and a licensed professional. The router checks for crisis signs before anything else.
+The Psychology and Mental Health department is educational self-help built from books. It is not therapy, diagnosis or medical advice. It never advises on medication, and when someone shows signs of crisis it points them to emergency services and crisis lines, Mongolian numbers first (103 emergency, 1800-2000 National Center for Mental Health counselling line, 108 child helpline), then international ones (988 in the US and Canada, 116 123 in the UK and Ireland, findahelpline.com), and to a licensed professional. The router checks for crisis signs before anything else.
+
+## Language and onboarding
+
+- **Mongolian by default.** Every answer, question and artifact is in Mongolian (Cyrillic). Pass `--en`, or write in English and ask to continue in English, to switch. Book titles stay in their original language, with a Mongolian translation where helpful. Author quotes are shown verbatim in English with a Mongolian translation marked "Орчуулга".
+- **Onboarding.** On first use the board quietly gathers what it can about you (this chat, attached files, memory and past chats when available, project knowledge, or a saved profile in Claude Code). If it knows enough, it confirms its summary with you. If not, it runs a short life audit: 12 questions in 3 rounds covering your work, the five areas scored 1 to 10, and what you are putting off.
+- **Life audit artifact.** After the audit it builds a dashboard (`assets/life-audit.html`): your five scores with the main constraint in each, the top 3 priorities across your life, a 30-day plan sized to the hours you have, 3 books to start with, 3 questions to ask the board next, and a profile block you can paste into a new chat to skip onboarding.
+- **Works in regular chat.** In Claude.ai and the Claude app there are no subagents, so council questions run each department in turn inside one answer. In Claude Code, council questions run as parallel subagents.
 
 ## Install
+
+### In Claude.ai or the Claude app (regular chat)
+
+1. Download `book-board-skill.zip` (the `skills/book-board` folder zipped, with `SKILL.md` at its top level).
+2. In Claude, open Settings, then Capabilities. Make sure code execution and file creation is on (skills need it).
+3. In the Skills section, upload the zip and turn the skill on.
+4. Start a new chat and write "Сайн байна уу, эхэлье" or "/book-board" to begin onboarding, or just ask a question.
+
 
 ### Option 1: as a plugin (recommended)
 
@@ -91,6 +106,7 @@ Every answer starts with a routing line, for example:
 
 ## Changelog
 
+- 2.1: Mongolian by default; onboarding with background context gathering and a 12-question life audit; life audit dashboard artifact; council runs inside one answer in regular chat; Mongolian crisis numbers (103, 1800-2000, 108).
 - 2.0: five departments. Sales, Marketing and Growth merged into one Business department built on Hormozi's $100M Offers, Leads and Money Models (spine: Offer, Leads, Close, Money Model, Scale). New Mindset, Psychology and Mental Health, and Relationships and Leadership departments with 30 new books, grounded in 36 new author talks. Router safety check for mental health.
 - 1.1: swapped 17 books for popular classics; grounded 84 books in verbatim author quotes from talks.
 - 1.0: four departments, 100 books, router and council.
