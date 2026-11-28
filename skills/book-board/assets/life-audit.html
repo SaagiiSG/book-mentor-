@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="mn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Амьдралын аудит</title>
+<style>
+:root{
+  --bg:#f7f5f0; --card:#ffffff; --ink:#1d1b18; --muted:#6b665d; --line:#e4dfd5;
+  --accent:#b4532a; --good:#2f7d5b; --mid:#b7862b; --low:#b4442a;
+  --bus:#b4532a; --prod:#2f6f9f; --mind:#7a4fa3; --psy:#2f7d5b; --rel:#a8476b;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#151412; --card:#1f1d1a; --ink:#f1ede5; --muted:#a39d92; --line:#33302b;
+    --accent:#e07a4c; --good:#5fbf8f; --mid:#e0b85a; --low:#e87a5d;
+    --bus:#e07a4c; --prod:#6aa8d6; --mind:#b18ad8; --psy:#5fbf8f; --rel:#e07fa3;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#151412; --card:#1f1d1a; --ink:#f1ede5; --muted:#a39d92; --line:#33302b;
+  --accent:#e07a4c; --good:#5fbf8f; --mid:#e0b85a; --low:#e87a5d;
+  --bus:#e07a4c; --prod:#6aa8d6; --mind:#b18ad8; --psy:#5fbf8f; --rel:#e07fa3;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans",Arial,sans-serif}
+.wrap{max-width:960px;margin:0 auto;padding:28px 16px 48px}
+header h1{font-size:28px;line-height:1.2;margin:0 0 6px}
+header p{margin:0;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;margin-top:18px}
+.card h2{font-size:18px;margin:0 0 12px}
+.insight{font-size:18px;border-left:4px solid var(--accent);padding-left:14px;margin:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.dept{border:1px solid var(--line);border-radius:12px;padding:16px}
+.dept .top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.dept .name{font-weight:650}
+.dept .score{font-size:26px;font-weight:700}
+.bar{height:8px;background:var(--line);border-radius:6px;overflow:hidden;margin:8px 0 10px}
+.bar>span{display:block;height:100%;border-radius:6px}
+.dept .label{font-size:13px;color:var(--muted);margin-top:8px}
+.dept p{margin:2px 0 0}
+.prio{counter-reset:p;list-style:none;padding:0;margin:0}
+.prio li{counter-increment:p;position:relative;padding:12px 0 12px 44px;border-top:1px solid var(--line)}
+.prio li:first-child{border-top:none}
+.prio li::before{content:counter(p);position:absolute;left:0;top:12px;width:30px;height:30px;border-radius:50%;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}
+.tag{display:inline-block;font-size:12px;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--muted);margin-left:6px;white-space:nowrap}
+.weeks{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.week{border:1px solid var(--line);border-radius:12px;padding:14px}
+.week h3{margin:0 0 8px;font-size:15px}
+.week ul{margin:0;padding-left:18px}
+.week li{margin:6px 0}
+.books li,.qs li{margin:8px 0}
+.muted{color:var(--muted);font-size:13px}
+pre{white-space:pre-wrap;background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:12px;font-size:13px;margin:0}
+button{font:inherit;font-size:14px;padding:8px 14px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;margin-top:10px}
+.safety{border-color:var(--low)}
+footer{margin-top:22px;color:var(--muted);font-size:13px}
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+<script>
+/* Book Board: the skill replaces this DATA object with the audit results (in Mongolian). */
+const DATA = {
+  name: "Таны нэр",
+  date: "2026-11-28",
+  summary: "Нэг хоёр өгүүлбэрээр гол дүгнэлт.",
+  safety_note: "",
+  departments: [
+    {key:"bus",  name:"Бизнес",        score:6, constraint:"Гол саад нэг мөрөөр", evidence:"Хариултаас авсан нотолгоо", tool:"Value Equation (B01 $100M Offers)"},
+    {key:"prod", name:"Бүтээмж",       score:5, constraint:"", evidence:"", tool:""},
+    {key:"mind", name:"Сэтгэлгээ",     score:7, constraint:"", evidence:"", tool:""},
+    {key:"psy",  name:"Сэтгэл зүй",    score:4, constraint:"", evidence:"", tool:""},
+    {key:"rel",  name:"Харилцаа",      score:6, constraint:"", evidence:"", tool:""}
+  ],
+  priorities: [
+    {title:"Эхний тэргүүлэх зорилт", why:"Яагаад хамгийн түрүүнд", dept:"Сэтгэл зүй"},
+    {title:"Хоёр дахь", why:"", dept:"Бизнес"},
+    {title:"Гурав дахь", why:"", dept:"Харилцаа"}
+  ],
+  plan: [
+    {week:"1-р долоо хоног", actions:[{text:"Тодорхой үйлдэл", dept:"Сэтгэл зүй"}]},
+    {week:"2-р долоо хоног", actions:[]},
+    {week:"3-р долоо хоног", actions:[]},
+    {week:"4-р долоо хоног", actions:[]}
+  ],
+  books: [
+    {title:"Atomic Habits", id:"P03", why:"Яагаад энэ ном"}
+  ],
+  next_questions: ["Зөвлөлөөс дараа нь асуух асуулт"],
+  metric: "Анхаарах нэг үзүүлэлт",
+  profile: "Дараагийн чатад хуулж оруулах профайл (богино)."
+};
+
+const COLORS={bus:"var(--bus)",prod:"var(--prod)",mind:"var(--mind)",psy:"var(--psy)",rel:"var(--rel)"};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const level=s=>s>=8?"var(--good)":s>=5?"var(--mid)":"var(--low)";
+function render(d){
+  const avg=(d.departments.reduce((a,x)=>a+(+x.score||0),0)/Math.max(1,d.departments.length)).toFixed(1);
+  let h=`<header><h1>Амьдралын аудит${d.name?": "+esc(d.name):""}</h1><p>${esc(d.date)} · Дундаж оноо ${avg} / 10 · Book Board</p></header>`;
+  if(d.safety_note) h+=`<section class="card safety"><h2>Анхааруулга</h2><p>${esc(d.safety_note)}</p></section>`;
+  h+=`<section class="card"><h2>Гол дүгнэлт</h2><p class="insight">${esc(d.summary)}</p></section>`;
+  h+=`<section class="card"><h2>Таван чиглэл</h2><div class="grid">`+d.departments.map(x=>`
+    <div class="dept" style="border-top:4px solid ${COLORS[x.key]||"var(--accent)"}">
+      <div class="top"><span class="name">${esc(x.name)}</span><span class="score" style="color:${level(+x.score)}">${esc(x.score)}<span class="muted">/10</span></span></div>
+      <div class="bar"><span style="width:${Math.max(0,Math.min(10,+x.score))*10}%;background:${COLORS[x.key]||"var(--accent)"}"></span></div>
+      ${x.constraint?`<div class="label">Гол саад</div><p>${esc(x.constraint)}</p>`:""}
+      ${x.evidence?`<div class="label">Нотолгоо</div><p>${esc(x.evidence)}</p>`:""}
+      ${x.tool?`<div class="label">Хэрэглэх арга</div><p>${esc(x.tool)}</p>`:""}
+    </div>`).join("")+`</div></section>`;
+  h+=`<section class="card"><h2>Тэргүүлэх 3 зорилт</h2><ol class="prio">`+d.priorities.map(p=>`<li><strong>${esc(p.title)}</strong><span class="tag">${esc(p.dept)}</span><div class="muted">${esc(p.why)}</div></li>`).join("")+`</ol></section>`;
+  h+=`<section class="card"><h2>30 хоногийн төлөвлөгөө</h2><div class="weeks">`+d.plan.map(w=>`<div class="week"><h3>${esc(w.week)}</h3><ul>`+(w.actions||[]).map(a=>`<li>${esc(a.text)} <span class="tag">${esc(a.dept)}</span></li>`).join("")+`</ul></div>`).join("")+`</div>`+(d.metric?`<p class="muted" style="margin-top:12px">Анхаарах үзүүлэлт: ${esc(d.metric)}</p>`:"")+`</section>`;
+  h+=`<section class="card"><h2>Эхлэх 3 ном</h2><ul class="books">`+d.books.map(b=>`<li><strong>${esc(b.title)}</strong> <span class="tag">${esc(b.id)}</span><div class="muted">${esc(b.why)}</div></li>`).join("")+`</ul></section>`;
+  h+=`<section class="card"><h2>Зөвлөлөөс дараа нь асуух</h2><ul class="qs">`+d.next_questions.map(q=>`<li>${esc(q)}</li>`).join("")+`</ul></section>`;
+  h+=`<section class="card"><h2>Профайл</h2><p class="muted">Дараагийн чатад энийг хуулж оруулбал танилцах шатыг алгасна.</p><pre id="prof">${esc(d.profile)}</pre><button id="copy">Хуулах</button></section>`;
+  h+=`<footer>Энэ нь номнуудын санаанд тулгуурласан зөвлөгөө бөгөөд эмчилгээ, оношилгоо биш. Яаралтай тусламж: 103 · Сэтгэцийн эрүүл мэндийн зөвлөгөө: 1800-2000</footer>`;
+  document.getElementById("app").innerHTML=h;
+  const b=document.getElementById("copy");
+  b.onclick=()=>{try{navigator.clipboard.writeText(d.profile);b.textContent="Хуулсан";}catch(e){b.textContent="Гараар хуулна уу";}};
+}
+render(DATA);
+</script>
+</body>
+</html>

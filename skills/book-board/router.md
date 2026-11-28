@@ -16,7 +16,7 @@ Business absorbs the old Sales, Marketing and Growth departments. Its spine is A
 
 ## Step 0: safety first
 
-If the prompt mentions thoughts of suicide or self-harm, harming someone, abuse, a medical emergency, or severe symptoms, skip routing. Answer with care, point to immediate help (local emergency number, a crisis line such as 988 in the US and Canada or 116 123 in the UK and Ireland, or findahelpline.com), and follow the Safety section of `brains/psychology/_hot.md`. Do not give business or productivity advice in that answer.
+If the prompt mentions thoughts of suicide or self-harm, harming someone, abuse, a medical emergency, or severe symptoms, skip routing. Answer with care, point to immediate help (in Mongolia first: emergency and ambulance 103, police 102, the National Center for Mental Health counselling line 1800-2000, child helpline 108; elsewhere the local emergency number, a crisis line such as 988 in the US and Canada or 116 123 in the UK and Ireland, or findahelpline.com), and follow the Safety section of `brains/psychology/_hot.md` and the suggested Mongolian wording in `language.md`. Do not give business or productivity advice in that answer.
 
 ## Step 1: score each department 0 to 3
 
